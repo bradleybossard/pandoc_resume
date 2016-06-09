@@ -1,28 +1,22 @@
-Johnny Coder
+Bradley Bossard
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I still love to code.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2001-2003 
+:   **MSECE, Electrical and Computer Engineering**; University of Iowa(Iowa City, IA)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+1998-2001
+:   **BSEE, Electrical Engineering**; University of Iowa (Iowa City, IA)
 
 Experience
 ----------
