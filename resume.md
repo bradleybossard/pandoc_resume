@@ -1,6 +1,8 @@
 Bradley Bossard
 ============
 
+> <bradleybossard@gmail.com>
+
 ----
 
 >  I still love to code.
@@ -21,7 +23,7 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**VenueNext [link](http://www.venuenext.com/)**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
