@@ -23,20 +23,23 @@ Education
 Experience
 ----------
 
-**VenueNext [link](http://www.venuenext.com/)**
+**Senior Software Engineer - [VenueNext](http://www.venuenext.com/)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+VenueNext is a venture funded startup that is building a platform for
+mobile apps and integrating all the various services of venue (ticketing,
+food & beverage ordering, loyalty, etc) in a single experience.  As a
+senior engineer on this remote team, my duties include
 
-* First item
+* Mobile development on both iOS and Android.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Driving platform development, including API specification, UI design
+  of platform features, and cross-platform feature implementation.
 
-**That Other Job You Had**
+**Frontend Developer - [Aniden Interactive](http://www.aniden.com/)**
 
-Also with a short description.
+**Software Engineer - [Google](http://www.google.com/)**
+
+**Systems Engineer - Urban Scan**
 
 Technical Experience
 --------------------
