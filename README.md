@@ -12,3 +12,9 @@ Requirements:
 
  * ConTeXt
  * pandoc
+
+TODOs
+
+  * Add links to Google Doodles, etc
+  * Add Dental EMR experience
+  * Add tools, languages, etc
