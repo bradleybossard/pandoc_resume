@@ -75,6 +75,20 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 Education
 ---------
 
+
+**MSECE, Electrical and Computer Engineering** - [University of Iowa](http://www.uiowa.edu/) - *2001-2003* 
+
+Patents
+------------------------
+
+[Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area](http://www.google.com/patents/US20150143301)
+
+Publications
+------------
+
+[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform](https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf)
+
+<!--
 *2001-2003* 
 :   **MSECE, Electrical and Computer Engineering**; University of Iowa(Iowa City, IA)
 
@@ -82,6 +96,7 @@ Education
 
 *1998-2001*
 :   **BSEE, Electrical Engineering**; University of Iowa (Iowa City, IA)
+-->
 
 <!--
 Technical Experience
