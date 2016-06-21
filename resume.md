@@ -78,6 +78,8 @@ Education
 
 **MSECE, Electrical and Computer Engineering** - [University of Iowa](http://www.uiowa.edu/) - *2001-2003* 
 
+**BSEE, Electrical Engineering** - [University of Iowa](http://www.uiowa.edu/) - *1998-2001* 
+
 Patents
 ------------------------
 
