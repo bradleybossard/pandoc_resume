@@ -12,7 +12,7 @@ Bradley Bossard
 Experience
 ----------
 
-**Senior Software Engineer - [VenueNext](http://www.venuenext.com/) - 2016 - Present**
+**Senior Software Engineer - [VenueNext](http://www.venuenext.com/) - *2016 - Present* **
 
 VenueNext is a venture funded startup that is building a platform for
 mobile apps and integrating all the various services of venue (ticketing,
@@ -24,13 +24,13 @@ senior engineer on this remote team, my duties include
 * Driving platform development, including API specification, UI design
   of platform features, and cross-platform feature implementation.
 
-**Frontend Developer - [Aniden Interactive](http://www.aniden.com/) - 2012-2016**
+**Frontend Developer - [Aniden Interactive](http://www.aniden.com/) - *2012-2016* **
 
 At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:
 
 * Android implementation of our internal company product Cliphoarder.  This app allows a user to copy images/text/html from the clipboard and paste into a collection which can be synced to cloud storage.  Relevant Android concepts include defining and using mySqlLite databases, ViewAdapters, CursorLoaders, generating and managing thumbnails for displaying assets, app widgets and working with the Dropbox and Microsoft Onedrive for creating/reading/writing cloud assets. 
 
-* [Touch table](http://vimeo.com/105898051) - large tabletop interactive timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Google Chrome App framework and HTML canvas.
+* [Touch table](http://vimeo.com/105898051#t=13) - large tabletop interactive timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Google Chrome App framework and HTML canvas.
 
 * Large scale project management app for HP allowing project managers to view schedules for 200+ projects on a timeline with multiple milestones and task lists associated with each.
 
@@ -44,7 +44,7 @@ At Aniden, I was involved in developing interactive projects for clients like HP
 
 * Internally developed Win8 app Cliphoarder for storing clipboard snippets locally and to the cloud - http://cliphoarder.com/
 
-**Software Engineer - [Google](http://www.google.com/) - 2007-2012**
+**Software Engineer - [Google](http://www.google.com/) - *2007-2012* **
 
 While at Google, I have namely worked in geo-related (digital mapping) technologies, and have been involved in...
 
@@ -63,7 +63,7 @@ I implemented the initial version of the Doodle Gallery at www.google.com/doodle
 
 Particular Doodles I authored include the following links below (sorry for the horrible screenshots, that's LinkedIn's fault)
 
-**Systems Engineer - Urban Scan - 2005 - 2007**
+**Systems Engineer - Urban Scan - *2005 - 2007* **
 
 Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments. During my two years, I was responsible for the following...
 
@@ -75,12 +75,12 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 Education
 ---------
 
-2001-2003 
+*2001-2003* 
 :   **MSECE, Electrical and Computer Engineering**; University of Iowa(Iowa City, IA)
 
     *Thesis title: Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform*
 
-1998-2001
+*1998-2001*
 :   **BSEE, Electrical Engineering**; University of Iowa (Iowa City, IA)
 
 <!--
