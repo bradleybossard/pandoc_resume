@@ -61,7 +61,15 @@ While at Google, I have namely worked in geo-related (digital mapping) technolog
 - Writing interactive Doodles for the Google homepage.  In addition to authoring interactive doodles, 
 I implemented the initial version of the Doodle Gallery at www.google.com/doodles
 
-Particular Doodles I authored include the following links below (sorry for the horrible screenshots, that's LinkedIn's fault)
+Particular Doodles I authored include the following links below
+
+[![](./images/startrek.png)46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
+
+[![](./images/halloween.png)Halloween 2011](http://www.google.com/doodles/halloween-2011)
+
+[![](./images/gumby.png)Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
+
+[![](./images/lunar.png)Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
 
 **Systems Engineer - Urban Scan - *2005 - 2007* **
 
