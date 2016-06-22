@@ -28,13 +28,19 @@ senior engineer on this remote team, my duties include
 
 At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:
 
+* [Yahoo Doodle](http://aniden.com/project/yahoo_logo) - Created pipeline to optimize and sprite an image sequence and custom Javascript to run on the Yahoo homepage to handle loading and animating the sprite.
+
+* [Race For The Stars](http://aniden.com/project/race_for_the_stars) - Virtual reality game built using Unity 3D for the client and MEAN/Angular stack on the backend scoreboard.  Let's uses race through an HP datacenter in a Temple Run-like game and race for the best times/scores.
+
+* [Finish Drawing](http://finishdrawing.com) - Web app game entered for [Wacom Inkation](http://devpost.com/software/finishdrawing-com) contest, and won 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
+
 * Android implementation of our internal company product Cliphoarder.  This app allows a user to copy images/text/html from the clipboard and paste into a collection which can be synced to cloud storage.  Relevant Android concepts include defining and using mySqlLite databases, ViewAdapters, CursorLoaders, generating and managing thumbnails for displaying assets, app widgets and working with the Dropbox and Microsoft Onedrive for creating/reading/writing cloud assets. 
 
 * [Touch table](http://vimeo.com/105898051#t=13) - large tabletop interactive timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Google Chrome App framework and HTML canvas.
 
-* Large scale project management app for HP allowing project managers to view schedules for 200+ projects on a timeline with multiple milestones and task lists associated with each.
+* [HP Discover Mobility Experience](http://aniden.com/project/mobility_touch_experience) - Trade show installation written using Chrome App framework.  Deployed on large screen touch and tablets, and featured a unique approach to navigate through the animations by segementing the videos into transitions rendering both forward and backward, then loading and playing the proper segment during the navigation.
 
-* Yahoo Doodle animation. Created pipeline to optimize and sprite an image sequence and custom Javascript to run on the Yahoo homepage to handle loading and animating the sprite.
+* Large scale project management app for HP allowing project managers to view schedules for 200+ projects on a timeline with multiple milestones and task lists associated with each.
 
 * PhoneGap-based iOS app for navigating and viewing a curated set of corporate training videos
 
