@@ -35,21 +35,24 @@ At Aniden, I was involved in developing interactive projects for clients like HP
 
 * [Finish Drawing](http://finishdrawing.com) - Web app game entered for [Wacom Inkation](http://devpost.com/software/finishdrawing-com) contest, and won 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
 
-* Android implementation of our internal company product Cliphoarder.  This app allows a user to copy images/text/html from the clipboard and paste into a collection which can be synced to cloud storage.  Relevant Android concepts include defining and using mySqlLite databases, ViewAdapters, CursorLoaders, generating and managing thumbnails for displaying assets, app widgets and working with the Dropbox and Microsoft Onedrive for creating/reading/writing cloud assets. 
-
 * [Touch table](http://vimeo.com/105898051#t=13) - large tabletop interactive timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Google Chrome App framework and HTML canvas.
 
 * [HP Discover Mobility Experience](http://aniden.com/project/mobility_touch_experience) - Trade show installation written using Chrome App framework.  Deployed on large screen touch and tablets, and featured a unique approach to navigate through the animations by segementing the videos into transitions rendering both forward and backward, then loading and playing the proper segment during the navigation.
 
-* Large scale project management app for HP allowing project managers to view schedules for 200+ projects on a timeline with multiple milestones and task lists associated with each.
+* *MPM* - Project management app for visualizing project milestones over hundreds of project simutaneousl in a corporate setting.  PHP/MySQL backend, jQuery and assorted frameworks on the frontend.
 
 * PhoneGap-based iOS app for navigating and viewing a curated set of corporate training videos
 
 * Multiple 120" touchwall kiosk projects, some using Flash, others implemented using Chrome Packaged apps using HTML5 canvas for rendering.
 
-* Native Android apps for HP devces for retail kiosk applications.
+* [Cliphoarder](http://cliphoarder.com/) - Win8 app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Win8 implementation used WinJS apis for development, Android used Native Android.  Both made use of Skydrive and Dropbox APIs for authentication and storage. 
 
-* Internally developed Win8 app Cliphoarder for storing clipboard snippets locally and to the cloud - http://cliphoarder.com/
+* Native Android apps for HP devces for retail kiosk applications.
+    * [HP 7 VoiceTab](https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app)
+    * [HP 7 Slate](https://play.google.com/store/apps/details?id=com.aniden.android.pine)
+    * [HP Slatebook X2](https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook)
+    * [HP Slate 21](https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio)
+
 
 **Software Engineer - [Google](http://www.google.com/) - *2007-2012* **
 
@@ -90,7 +93,7 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 Side Projects
 -------------
 
-**CTO - [DentalEMR](https://dentalemr.com) - *2012* **
+**CTO - [DentalEMR](https://dentalemr.com) - *2015* **
 
 Cloud-based dental EMR (electronic medical records) solution.  Architected and built the initial framework using Django and Angular.  Interviewed and hired additional team members.  Built and refined wireframes.  Followed SCRUMM project management principles.
 
