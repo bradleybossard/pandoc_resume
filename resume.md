@@ -24,6 +24,7 @@ senior engineer on this remote team, my duties include
 * Driving platform development, including API specification, UI design
   of platform features, and cross-platform feature implementation.
 
+
 **Frontend Developer - [Aniden Interactive](http://www.aniden.com/) - *2012-2016* **
 
 At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:
@@ -86,9 +87,16 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 * Evaluation, research and purchasing of all hardware used by the company.
 * Point of contact for DARPA project integrators, including daily phone calls, bi-monthly travel to Washington D.C. and several on-site integration trips.
 
+Side Projects
+-------------
+
+**CTO - [DentalEMR](https://dentalemr.com) - *2012* **
+
+Cloud-based dental EMR (electronic medical records) solution.  Architected and built the initial framework using Django and Angular.  Interviewed and hired additional team members.  Built and refined wireframes.  Followed SCRUMM project management principles.
+
+
 Education
 ---------
-
 
 **MSECE, Electrical and Computer Engineering** - [University of Iowa](http://www.uiowa.edu/) - *2001-2003* 
 
