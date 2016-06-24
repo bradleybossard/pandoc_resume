@@ -41,11 +41,9 @@ At Aniden, I was involved in developing interactive projects for clients like HP
 
 * *MPM* - Project management app for visualizing project milestones over hundreds of project simutaneousl in a corporate setting.  PHP/MySQL backend, jQuery and assorted frameworks on the frontend.
 
-* PhoneGap-based iOS app for navigating and viewing a curated set of corporate training videos
-
 * Multiple 120" touchwall kiosk projects, some using Flash, others implemented using Chrome Packaged apps using HTML5 canvas for rendering.
 
-* [Cliphoarder](http://cliphoarder.com/) - Win8 app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Win8 implementation used WinJS apis for development, Android used Native Android.  Both made use of Skydrive and Dropbox APIs for authentication and storage. 
+* [Cliphoarder](http://cliphoarder.com/) - WinJS app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Development used WinJS, Android SDK, and Dropbox/Skydrive APIs.
 
 * Native Android apps for HP devces for retail kiosk applications.
     * [HP 7 VoiceTab](https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app)
