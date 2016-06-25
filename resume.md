@@ -88,6 +88,23 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 * Evaluation, research and purchasing of all hardware used by the company.
 * Point of contact for DARPA project integrators, including daily phone calls, bi-monthly travel to Washington D.C. and several on-site integration trips.
 
+Portfolio
+---------
+
+![](./images/github.png)[GitHub](https://github.com/bradleybossard)
+
+![](./images/codepen.png)[Codepen](http://codepen.io/bradleybossard/)
+
+![](./images/stackoverflow.png)[StackOverflow](https://github.com/bradleybossard)
+
+![](./images/docker.png)[DockerHub](https://hub.docker.com/u/bradleybossard/)
+
+![](./images/codewars.png)[codewars](https://www.codewars.com/users/bradleybossard)
+<!--
+![](./images/hackerrank.png)[HackerRank](https://www.hackerrank.com/bradleybossard)
+-->
+
+
 Side Projects
 -------------
 
@@ -113,68 +130,19 @@ Publications
 
 [Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform](https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf)
 
-<!--
-*2001-2003* 
-:   **MSECE, Electrical and Computer Engineering**; University of Iowa(Iowa City, IA)
 
-    *Thesis title: Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform*
-
-*1998-2001*
-:   **BSEE, Electrical Engineering**; University of Iowa (Iowa City, IA)
--->
-
-<!--
-Technical Experience
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Languages And Frameworks
+:   * Javascript (Node, jQuery, Angular, React, Redux
+    * Python (Django)
+    * C, C++
+    * Java (Android)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Databases
+:    * Mongo
+      * PostgreSQL
+      * MySQL
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
--->
