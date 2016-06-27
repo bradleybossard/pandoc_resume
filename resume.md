@@ -88,18 +88,22 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 * Evaluation, research and purchasing of all hardware used by the company.
 * Point of contact for DARPA project integrators, including daily phone calls, bi-monthly travel to Washington D.C. and several on-site integration trips.
 
+\newpage
+\pagebreak
+
 Portfolio
 ---------
 
-![](./images/github.png)[GitHub](https://github.com/bradleybossard)
+[![](./images/github.png){width=20 height=20} - Github](https://github.com/bradleybossard)
 
-![](./images/codepen.png)[Codepen](http://codepen.io/bradleybossard/)
+[![](./images/codepen.png){width=20 height=20} - Codepen](https://codepen.io/bradleybossard)
 
-![](./images/stackoverflow.png)[StackOverflow](https://github.com/bradleybossard)
+[![](./images/stackoverflow.png){width=20 height=20} - stackoverflow](http://stackoverflow.com/users/1754642/bradley-bossard)
 
-![](./images/docker.png)[DockerHub](https://hub.docker.com/u/bradleybossard/)
+[![](./images/docker.png){width=20 height=20} - Docker Hub](https://hub.docker.com/u/bradleybossard)
 
-![](./images/codewars.png)[codewars](https://www.codewars.com/users/bradleybossard)
+[![](./images/codewars.png){width=20 height=20} - CodeWars](https://www.codewars.com/users/bradleybossard)
+
 <!--
 ![](./images/hackerrank.png)[HackerRank](https://www.hackerrank.com/bradleybossard)
 -->
