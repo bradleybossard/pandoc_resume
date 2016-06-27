@@ -14,9 +14,9 @@ Experience
 
 **Senior Software Engineer - [VenueNext](http://www.venuenext.com/) - *2016 - Present* **
 
-VenueNext is a venture-funded startup that is building a platform for
-mobile apps and integrating all venue services (ticketing,
-food & beverage ordering, loyalty, etc) in a single experience.  As a
+VenueNext is a venture-funded startup building a platform for
+mobile and integrating all the services of a venue (ticketing,
+food & beverage ordering, loyalty, etc) in a single user experience.  As a
 senior engineer on this remote team, my duties include
 
 * Mobile development on both iOS and Android.
@@ -24,59 +24,64 @@ senior engineer on this remote team, my duties include
 * Driving platform development, including API specification, UI design
   of platform features, and cross-platform feature implementation.
 
-
 **Frontend Developer - [Aniden Interactive](http://www.aniden.com/) - *2012-2016* **
 
 At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:
 
-* [Yahoo Doodle](http://aniden.com/project/yahoo_logo) - Created pipeline to optimize and sprite an image sequence and custom Javascript to run on the Yahoo homepage to handle loading and animating the sprite.
+* [Yahoo Doodle](http://aniden.com/project/yahoo_logo) - Created Python pipeline to optimize and sprite an image sequence and custom Javascript for the Yahoo homepage to handle loading and animating the sprite.
 
-* [Race For The Stars](http://aniden.com/project/race_for_the_stars) - Virtual reality game built using Unity 3D for the client and MEAN/Angular stack on the backend scoreboard.  Let's uses race through an HP datacenter in a Temple Run-like game and race for the best times/scores.
+* [Race For The Stars](http://aniden.com/project/race_for_the_stars) - Virtual reality game built using Unity 3D for the client and MEAN JS stack on the backend scoreboard.  App allows users to race through an HP datacenter in a Temple Run-like game and compete for the best times/scores.
 
-* [Finish Drawing](http://finishdrawing.com) - Web app game entered for [Wacom Inkation](http://devpost.com/software/finishdrawing-com) contest, and won 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
+* [Finish Drawing](http://finishdrawing.com) - Web app game entered for [Wacom Inkation](http://devpost.com/software/finishdrawing-com) contest, winning 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
 
-* [Touch table](http://vimeo.com/105898051#t=13) - large tabletop interactive timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Google Chrome App framework and HTML canvas.
+* [Touch table](http://vimeo.com/105898051#t=13) - Large interactive tabletop timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Chrome App framework and HTML canvas.
 
-* [HP Discover Mobility Experience](http://aniden.com/project/mobility_touch_experience) - Trade show installation written using Chrome App framework.  Deployed on large screen touch and tablets, and featured a unique approach to navigate through the animations by segementing the videos into transitions rendering both forward and backward, then loading and playing the proper segment during the navigation.
-
-* *MPM* - Project management app for visualizing project milestones over hundreds of project simutaneousl in a corporate setting.  PHP/MySQL backend, jQuery and assorted frameworks on the frontend.
-
-* Multiple 120" touchwall kiosk projects, some using Flash, others implemented using Chrome Packaged apps using HTML5 canvas for rendering.
+* [HP Discover Mobility Experience](http://aniden.com/project/mobility_touch_experience) - Trade show piece that allows users to navigate forward/backwards through a series of animations.  Written as a JS Chrome App, deployed on touch wall and tablets.
 
 * [Cliphoarder](http://cliphoarder.com/) - WinJS app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Development used WinJS, Android SDK, and Dropbox/Skydrive APIs.
 
-* Native Android apps for HP devces for retail kiosk applications.
+* **Android Kiosk Apps** - Native Android apps for HP devices for retail applications.
     * [HP 7 VoiceTab](https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app)
     * [HP 7 Slate](https://play.google.com/store/apps/details?id=com.aniden.android.pine)
     * [HP Slatebook X2](https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook)
     * [HP Slate 21](https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio)
 
+* **MPM** - Project management app for visualizing project milestones over hundreds of project simutaneously in a corporate setting.  PHP/MySQL backend, jQuery and assorted frameworks on the frontend.
+
+* **Digital Signage** - Multiple 120" touchwall kiosk projects, some using Flash, others implemented using Chrome Packaged apps using HTML5 canvas for rendering.
+
+\newpage
+\pagebreak
+
+
+Experience cont.
+----------
 
 **Software Engineer - [Google](http://www.google.com/) - *2007-2012* **
 
 While at Google, I have namely worked in geo-related (digital mapping) technologies, and have been involved in...
 
-- Writing a C++ pipeline for the automated creation of 3D buildings in Google Earth.
+- [Google Earth 3D Buildings](http://www.google.com/earth/explore/showcase/3dbuildings.html) - C++ pipeline for the automated creation of 3D buildings using LIDAR and aerial imagery. 
 
-- Writing a C++ pipeline/server for serving tiled, hierarchical aerial imagery, initially used for the Google Building Maker product (now defunct).
+- [Google Builing Maker](http://www.google.com/earth/learn/3dbuildings.html) - C++ pipeline/server for serving tiled, hierarchical aerial imagery.
 
-- Writing a GAE / Python server for QA'ing 3D content.  This technology was solely implemented by myself and allowed multiple operators to score individual three models using Google Earth.
+- **Wapner** - Django-based internal tool for scoring 3D content.  [Patent](http://www.google.com/patents/US20150143301) issued for work on this project.
 
-- Writing Javascript/Flash code for Google Street View and Google Maps.  Particular tasks included refactoring the Street View embed codebase, and rewriting the rendering code for displaying full 3D overlays for driving directions in the Street View Flash viewer.
+- [Google Street View](https://www.google.com/maps/streetview/) - Javascript/Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
 
-- Speciality Pegmen - 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview.  Over the courses of two years, I created roughly 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.  A few of them are available below.  The project also required Google Maps server modifications (done by me) so we could control the location and time the special Pegman were available to the users.
+- [Speciality Pegmen](https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html) - 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview. Authored and Launched over 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.![](./images/pegman.png)
 
 - [Google Doodles](www.google.com/doodles) - First to hold actual title "Doodle Engineer".  Authored and launched interactive doodles.  Implemented the initial version of the [Doodle Gallery](www.google.com/doodles) in Django/Python on Google App Engine.
 
 Particular Doodles I authored include the following links below
 
-[![](./images/startrek.png)46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
+[![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
 
-[![](./images/halloween.png)Halloween 2011](http://www.google.com/doodles/halloween-2011)
+[![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
 
-[![](./images/gumby.png)Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
+[![](./images/gumby.png) - Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
 
-[![](./images/lunar.png)Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
+[![](./images/lunar.png) - Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
 
 **Systems Engineer - Urban Scan - *2005 - 2007* **
 
@@ -133,7 +138,7 @@ Publications
 
 [Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform](https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf)
 
-
+<!--
 Skills
 --------------------
 
@@ -148,4 +153,4 @@ Databases
 :    * Mongo
       * PostgreSQL
       * MySQL
-
+-->
