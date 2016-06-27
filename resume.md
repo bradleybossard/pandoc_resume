@@ -5,7 +5,7 @@ Bradley Bossard
 
 ----
 
->  Senior developer with over 15 years of experience.  I enjoy solving interesting problems and learning new technologies.  There has never been a more exciting time to be a developer.
+>  Senior developer and [Xoogler](http://google.about.com/od/wx/g/xooglers.htm) with over 15 years of experience.  I enjoy solving interesting problems and learning new technologies.
 
 ----
 
@@ -14,8 +14,8 @@ Experience
 
 **Senior Software Engineer - [VenueNext](http://www.venuenext.com/) - *2016 - Present* **
 
-VenueNext is a venture funded startup that is building a platform for
-mobile apps and integrating all the various services of venue (ticketing,
+VenueNext is a venture-funded startup that is building a platform for
+mobile apps and integrating all venue services (ticketing,
 food & beverage ordering, loyalty, etc) in a single experience.  As a
 senior engineer on this remote team, my duties include
 
@@ -64,10 +64,9 @@ While at Google, I have namely worked in geo-related (digital mapping) technolog
 
 - Writing Javascript/Flash code for Google Street View and Google Maps.  Particular tasks included refactoring the Street View embed codebase, and rewriting the rendering code for displaying full 3D overlays for driving directions in the Street View Flash viewer.
 
-- 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview.  Over the courses of two years, I created roughly 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.  A few of them are available below.  The project also required Google Maps server modifications (done by me) so we could control the location and time the special Pegman were available to the users.
+- Speciality Pegmen - 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview.  Over the courses of two years, I created roughly 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.  A few of them are available below.  The project also required Google Maps server modifications (done by me) so we could control the location and time the special Pegman were available to the users.
 
-- Writing interactive Doodles for the Google homepage.  In addition to authoring interactive doodles, 
-I implemented the initial version of the Doodle Gallery at www.google.com/doodles
+- [Google Doodles](www.google.com/doodles) - First to hold actual title "Doodle Engineer".  Authored and launched interactive doodles.  Implemented the initial version of the [Doodle Gallery](www.google.com/doodles) in Django/Python on Google App Engine.
 
 Particular Doodles I authored include the following links below
 
@@ -83,10 +82,10 @@ Particular Doodles I authored include the following links below
 
 Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments. During my two years, I was responsible for the following...
 
-* Writing C++ code for a real-time acquisition system composed of high speed digital cameras, GPS, and laser scanners.
-* Design and manufacture of the collection platform including soldering custom cabling/PCBs, and designing a custom power supply used by all onboard sensors.
+* Writing C++ code for real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.
+* Design and manufacture soldering custom cabling/PCBs, and power supply used by all onboard sensors.
 * Evaluation, research and purchasing of all hardware used by the company.
-* Point of contact for DARPA project integrators, including daily phone calls, bi-monthly travel to Washington D.C. and several on-site integration trips.
+* Point of contact for DARPA project integrators, including calls, travel to Washington D.C. and on-site integration.
 
 \newpage
 \pagebreak
