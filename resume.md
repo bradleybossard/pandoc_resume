@@ -12,7 +12,7 @@ Bradley Bossard
 Experience
 ----------
 
-**Senior Software Engineer - [VenueNext](http://www.venuenext.com/) - *2016 - Present* **
+**Senior Software Engineer - [VenueNext] - *2016 - Present* **
 
 VenueNext is a venture-funded startup building a platform for
 mobile and integrating all the services of a venue (ticketing,
@@ -24,27 +24,27 @@ senior engineer on this remote team, my duties include
 * Driving platform development, including API specification, UI design
   of platform features, and cross-platform feature implementation.
 
-**Frontend Developer - [Aniden Interactive](http://www.aniden.com/) - *2012-2016* **
+**Frontend Developer - [Aniden Interactive] - *2012-2016* **
 
 At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:
 
-* [Yahoo Doodle](http://aniden.com/project/yahoo_logo) - Created Python pipeline to optimize and sprite an image sequence and custom Javascript for the Yahoo homepage to handle loading and animating the sprite.
+* [Yahoo Doodle] - Created Python pipeline to optimize and sprite an image sequence and custom Javascript for the Yahoo homepage to handle loading and animating the sprite.
 
-* [Race For The Stars](http://aniden.com/project/race_for_the_stars) - Virtual reality game built using Unity 3D for the client and MEAN JS stack on the backend scoreboard.  App allows users to race through an HP datacenter in a Temple Run-like game and compete for the best times/scores.
+* [Race For The Stars] - Virtual reality game built using Unity 3D for the client and MEAN JS stack on the backend scoreboard.  App allows users to race through an HP datacenter in a Temple Run-like game and compete for the best times/scores.
 
-* [Finish Drawing](http://finishdrawing.com) - Web app game entered for [Wacom Inkation](http://devpost.com/software/finishdrawing-com) contest, winning 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
+* [Finish Drawing] - Web app game entered for [Wacom Inkation] contest, winning 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
 
-* [Touch table](http://vimeo.com/105898051#t=13) - Large interactive tabletop timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Chrome App framework and HTML canvas.
+* [Touch table] - Large interactive tabletop timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Chrome App framework and HTML canvas.
 
-* [HP Discover Mobility Experience](http://aniden.com/project/mobility_touch_experience) - Trade show piece that allows users to navigate forward/backwards through a series of animations.  Written as a JS Chrome App, deployed on touch wall and tablets.
+* [HP Discover Mobility Experience] - Trade show piece that allows users to navigate forward/backwards through a series of animations.  Written as a JS Chrome App, deployed on touch wall and tablets.
 
-* [Cliphoarder](http://cliphoarder.com/) - WinJS app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Development used WinJS, Android SDK, and Dropbox/Skydrive APIs.
+* [Cliphoarder] - WinJS app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Development used WinJS, Android SDK, and Dropbox/Skydrive APIs.
 
 * **Android Kiosk Apps** - Native Android apps for HP devices for retail applications.
-    * [HP 7 VoiceTab](https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app)
-    * [HP 7 Slate](https://play.google.com/store/apps/details?id=com.aniden.android.pine)
-    * [HP Slatebook X2](https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook)
-    * [HP Slate 21](https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio)
+    * [HP 7 VoiceTab]
+    * [HP 7 Slate]
+    * [HP Slatebook X2]
+    * [HP Slate 21]
 
 * **MPM** - Project management app for visualizing project milestones over hundreds of project simutaneously in a corporate setting.  PHP/MySQL backend, jQuery and assorted frameworks on the frontend.
 
@@ -155,4 +155,17 @@ Databases
       * MySQL
 -->
 
->  [Xoogler]:http://google.about.com/od/wx/g/xooglers.htm
+[Xoogler]:http://google.about.com/od/wx/g/xooglers.htm
+[VenueNext]:http://www.venuenext.com/
+[Aniden Interactive]:http://www.aniden.com/
+[Yahoo Doodle]:http://aniden.com/project/yahoo_logo
+[Race For The Stars]:http://aniden.com/project/race_for_the_stars
+[Finish Drawing]:http://finishdrawing.com
+[Wacom Inkation]:http://devpost.com/software/finishdrawing-com
+[HP Discover Mobility Experience]:http://aniden.com/project/mobility_touch_experience
+[Cliphoarder]:http://cliphoarder.com/
+[HP 7 VoiceTab]:https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app
+[HP 7 Slate]:https://play.google.com/store/apps/details?id=com.aniden.android.pine
+[HP Slatebook X2]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook
+[HP Slate 21]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio
+
