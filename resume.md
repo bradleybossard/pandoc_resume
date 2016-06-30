@@ -132,6 +132,7 @@ Patents
 ------------------------
 
 [Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area] 
+
 Publications
 ------------
 
