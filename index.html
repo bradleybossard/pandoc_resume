@@ -4,50 +4,244 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
-  <title>The Markdown Resume</title>
+  <title></title>
   <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="style.css" type="text/css" />
+  <style type="text/css">
+  /*
+   * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+   *
+   * CSS for making a resume with pandoc. Inspired by moderncv.
+   *
+   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+   * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+   */
+  
+  /* Whole document */
+  body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      width: 800px;
+      margin: auto;
+      background: #FFFFFF;
+      padding: 10px 10px 10px 10px;
+  }
+  
+  /* Title of the resume */
+  h1 {
+      font-size: 55px;
+      color: #757575;
+      color: #000000;
+      text-align:center;
+      margin-bottom:15px;
+  }
+  /*
+  h1:hover {
+      background-color: #757575;
+      color: #FFFFFF;
+      text-shadow: 1px 1px 1px #333;
+  }
+  */
+  
+  /* Titles of categories */
+  h2 {
+      /* This is called "sectioncolor" in the ConTeXt stylesheet. */
+      color: #397249;
+      color: #000000;
+  }
+  
+  /* There is a bar just before each category */
+  h2:before {
+      content: "";
+      display: inline-block;
+      margin-right:1%;
+      width: 16%;
+      height: 10px;
+      /* This is called "rulecolor" in the ConTeXt stylesheet. */
+      /*background-color: #9CB770;*/
+      background-color: #757575;
+  }
+  
+  p strong em {
+    color: #757575;
+  }
+  
+  /*
+  h2:hover {
+      background-color: #397249;
+      color: #FFFFFF;
+      text-shadow: 1px 1px 1px #333;
+  }
+  */
+  
+  /* Definitions */
+  dt {
+      float: left;
+      clear: left;
+      width: 17%;
+      /*font-weight: bold;*/
+  }
+  dd {
+      margin-left: 17%;
+  }
+  p {
+      margin-top:0;
+      margin-bottom:7px;
+  }
+  
+  /* Blockquotes */
+  blockquote {
+      text-align: center
+  }
+  
+  /* Links */
+  a {
+      text-decoration: none;
+      color: #397249;
+      color: #0000FF;
+  }
+  
+  a:active {
+      /*
+      background-color: #397249;
+      text-decoration: none;
+      text-shadow: 1px 1px 1px #333;
+      */
+      color: #FFFFFF;
+  }
+  
+  
+  a:hover {
+  /*
+      background-color: #397249;
+      background-color: #4444FF;
+      text-decoration: none;
+      text-shadow: 1px 1px 1px #333;
+  */
+      color: #4444FF;
+  }
+  
+  /* Horizontal separators */
+  hr {
+      color: #A6A6A6;
+  }
+  
+  table {
+      width: 100%;
+  }
+  </style>
 </head>
 <body>
-<div id="header">
-<h1 class="title">The Markdown Resume</h1>
-</div>
-<p>Maintaining a resume is one of those annoying tasks that always takes up much more time than it should. Compounding this is the fact that resumes are regularly requested in different formats: raw text, pdf, Microsoft Word, etc. In addition, it might be desirable to have a HTML version online somewhere for added visibility. How then to manage this complexity? No one wants to manually update four versions of their resume, and the pdf conversion tools included with word processors leave much to be desired.</p>
-<p>Christophe-Marie Duquesne has a great <a href="http://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html">blog post</a> in which he shows that using the document translation tool <a href="http://johnmacfarlane.net/pandoc/">pandoc</a>, you can maintain your resume in <a href="http://daringfireball.net/projects/markdown/syntax">markdown format</a> and convert to other formats such as html and Word at will.</p>
-<p>This is convenient because:</p>
+<h1 id="bradley-bossard">Bradley Bossard</h1>
+<blockquote>
+<p><script type="text/javascript">
+<!--
+h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#98;&#114;&#x61;&#100;&#108;&#x65;&#x79;&#98;&#x6f;&#x73;&#x73;&#x61;&#114;&#100;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#98;&#114;&#x61;&#100;&#108;&#x65;&#x79;&#98;&#x6f;&#x73;&#x73;&#x61;&#114;&#100;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;</noscript></p>
+</blockquote>
+<hr />
+<blockquote>
+<p>Senior developer and <a href="http://google.about.com/od/wx/g/xooglers.htm">Xoogler</a> with over 15 years of experience. I enjoy solving interesting problems and learning new technologies.</p>
+</blockquote>
+<hr />
+<h2 id="experience">Experience</h2>
+<p><strong>Senior Software Engineer - <a href="http://www.venuenext.com/">VenueNext</a> - <em>2016 - Present</em> </strong></p>
+<p>VenueNext is a venture-funded startup building a platform for mobile and integrating all the services of a venue (ticketing, food &amp; beverage ordering, loyalty, etc) in a single user experience. As a senior engineer on this remote team, my duties include</p>
 <ul>
-<li>It means there is only one file you need to update to make any changes.</li>
-<li>Markdown is designed to be human-readable, so if you need a raw text version of your resume, no transformation is needed.</li>
-<li>Markdown has syntax for section headers, lists, tables and more, so you can add as much structure as you want to your resume.</li>
-<li>Being a format designed (partly) for human consumption and creation, it is also an appropriate format to keep in version control.</li>
+<li><p>Mobile development on both iOS and Android.</p></li>
+<li><p>Driving platform development, including API specification, UI design of platform features, and cross-platform feature implementation.</p></li>
 </ul>
-<p>This is what a simple resume in markdown format looks like:</p>
-<script src="https://gist.github.com/mszep/d3235240cc6653d6eeaa.js"></script>
+<p><strong>Frontend Developer - <a href="http://www.aniden.com/">Aniden Interactive</a> - <em>2012-2016</em> </strong></p>
+<p>At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:</p>
+<ul>
+<li><p><a href="http://aniden.com/project/yahoo_logo">Yahoo Doodle</a> - Created Python pipeline to optimize and sprite an image sequence and custom Javascript for the Yahoo homepage to handle loading and animating the sprite.</p></li>
+<li><p><a href="http://aniden.com/project/race_for_the_stars">Race For The Stars</a> - Virtual reality game built using Unity 3D for the client and MEAN JS stack on the backend scoreboard. App allows users to race through an HP datacenter in a Temple Run-like game and compete for the best times/scores.</p></li>
+<li><p><a href="http://finishdrawing.com">Finish Drawing</a> - Web app game entered for <a href="http://devpost.com/software/finishdrawing-com">Wacom Inkation</a> contest, winning 3rd place. Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery. Built using MEAN JS and Wacom WILL API.</p></li>
+<li><p>[Touch table] - Large interactive tabletop timeline for Baker Hughes Employee Education Center. Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history. Built using Chrome App framework and HTML canvas.</p></li>
+<li><p><a href="http://aniden.com/project/mobility_touch_experience">HP Discover Mobility Experience</a> - Trade show piece that allows users to navigate forward/backwards through a series of animations. Written as a JS Chrome App, deployed on touch wall and tablets.</p></li>
+<li><p><a href="http://cliphoarder.com/">Cliphoarder</a> - WinJS app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores. Development used WinJS, Android SDK, and Dropbox/Skydrive APIs.</p></li>
+<li><strong>Android Kiosk Apps</strong> - Native Android apps for HP devices for retail applications.
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app">HP 7 VoiceTab</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.aniden.android.pine">HP 7 Slate</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook">HP Slatebook X2</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio">HP Slate 21</a></li>
+</ul></li>
+<li><p><strong>MPM</strong> - Project management app for visualizing project milestones over hundreds of project simutaneously in a corporate setting. PHP/MySQL backend, jQuery and assorted frameworks on the frontend.</p></li>
+<li><p><strong>Digital Signage</strong> - Multiple 120&quot; touchwall kiosk projects, some using Flash, others implemented using Chrome Packaged apps using HTML5 canvas for rendering.</p></li>
+</ul>
 
-<p>However, in the above approach the generation of a pdf version (arguably the most important) is problematic. The suggestion is to use the <a href="http://wkhtmltopdf.org/">wkhtmltopdf tool</a>, which takes the pandoc-generated HTML and uses the webkit browser engine to generate a pdf. While this will preserve the look and feel of the resume, the pdf output is suboptimal, as webkit is not a typesetting engine. Most importantly, it does not handle page breaks well -- in some cases even putting a page break right across a line of text.</p>
-<p>On the other hand, TeX-based typesetting systems are designed for this task. Moreover, pandoc supports two types of TeX output: LaTeX and <a href="http://wiki.contextgarden.net/">ConTeXt</a>. I chose the latter since it seemed interesting, is more focused on page layout, and is not specifically geared towards scientific documents. Through trial and error, I was able to create a style.tex which comes close to emulating Christophe-Marie's style.css, resulting in a nicely typeset pdf resume which looks quite similar to the HTML:</p>
-<p><a href="resume.html">HTML version</a> of the resume:</p>
-<iframe src="resume.html" width=100% height=500px></iframe>
+<p></p>
+<h2 id="experience-cont.">Experience cont.</h2>
+<p><strong>Software Engineer - <a href="http://www.google.com">Google</a> - <em>2007-2012</em> </strong></p>
+<p>While at Google, I have namely worked in geo-related (digital mapping) technologies, and have been involved in...</p>
+<ul>
+<li><p><a href="http://www.google.com/earth/explore/showcase/3dbuildings.html">Google Earth 3D Buildings</a> - C++ pipeline for the automated creation of 3D buildings using LIDAR and aerial imagery.</p></li>
+<li><p><a href="http://www.google.com/earth/learn/3dbuildings.html">Google Builing Maker</a> - C++ pipeline/server for serving tiled, hierarchical aerial imagery.</p></li>
+<li><p><strong>Wapner</strong> - Django-based internal tool for scoring 3D content. <a href="http://www.google.com/patents/US20150143301">Patent</a> issued for work on this project.</p></li>
+<li><p><a href="https://www.google.com/maps/streetview/">Google Street View</a> - Javascript/Flash code for Google Street View and Google Maps. Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.</p></li>
+<li><p><a href="https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html">Speciality Pegmen</a> - 20% project to create a 3D modeling and sprite generation pipeline for creating &quot;speciality Pegman&quot; for Streetview. Authored and Launched over 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.<img src="./images/pegman.png" /></p></li>
+<li><p><a href="https://www.google.com/doodles">Google Doodles</a> - First to hold actual title &quot;Doodle Engineer&quot;. Authored and launched interactive doodles. Implemented the initial version of the <a href="https://www.google.com/doodles">Doodle Gallery</a> in Django/Python on Google App Engine.</p></li>
+</ul>
+<p>Particular Doodles I authored include the following links below</p>
+<p><a href="http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast"><img src="./images/startrek.png" /> - 46th Anniversary of Star Trek's 1st Broadcast</a></p>
+<p><a href="http://www.google.com/doodles/halloween-2011"><img src="./images/halloween.png" /> - Halloween 2011</a></p>
+<p><a href="http://www.google.com/doodles/art-clokeys-90th-birthday"><img src="./images/gumby.png" /> - Art Clokey's 90th Birthday</a></p>
+<p><a href="http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh"><img src="./images/lunar.png" /> - Total Lunar Ellipse</a></p>
+<p><strong>Systems Engineer - Urban Scan - <em>2005 - 2007</em> </strong></p>
+<p>Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments. During my two years, I was responsible for the following...</p>
+<ul>
+<li>Writing C++ code for real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.</li>
+<li>Design and manufacture soldering custom cabling/PCBs, and power supply used by all onboard sensors.</li>
+<li>Evaluation, research and purchasing of all hardware used by the company.</li>
+<li>Point of contact for DARPA project integrators, including calls, travel to Washington D.C. and on-site integration.</li>
+</ul>
 
-<p><a href="resume.pdf">PDF version</a> of the resume:</p>
-<object data="resume.pdf" type="application/pdf" width=100% height=500px></object>
+<p></p>
+<h2 id="portfolio">Portfolio</h2>
+<p><a href="https://github.com/bradleybossard"><img src="./images/github.png" width="20" height="20" /> - Github</a></p>
+<p><a href="https://codepen.io/bradleybossard"><img src="./images/codepen.png" width="20" height="20" /> - Codepen</a></p>
+<p><a href="http://stackoverflow.com/users/1754642/bradley-bossard"><img src="./images/stackoverflow.png" width="20" height="20" /> - stackoverflow</a></p>
+<p><a href="https://hub.docker.com/u/bradleybossard"><img src="./images/docker.png" width="20" height="20" /> - Docker Hub</a></p>
+<p><a href="https://www.codewars.com/users/bradleybossard"><img src="./images/codewars.png" width="20" height="20" /> - CodeWars</a></p>
+<!--
+![](./images/hackerrank.png)[HackerRank](https://www.hackerrank.com/bradleybossard)
+-->
+<h2 id="side-projects">Side Projects</h2>
+<p><strong>CTO - <a href="https://dentalemr.com">DentalEMR</a> - <em>2015</em> </strong></p>
+<p>Cloud-based dental EMR (electronic medical records) solution. Architected and built the initial framework using Django and Angular. Interviewed and hired additional team members. Built and refined wireframes. Followed SCRUMM project management principles.</p>
+<h2 id="education">Education</h2>
+<p><strong>MSECE, Electrical and Computer Engineering</strong> - <a href="http://www.uiowa.edu/">University of Iowa</a> - <em>2001-2003</em></p>
+<p><strong>BSEE, Electrical Engineering</strong> - <a href="http://www.uiowa.edu/">University of Iowa</a> - <em>1998-2001</em></p>
+<h2 id="patents">Patents</h2>
+<p><a href="http://www.google.com/patents/US20150143301">Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area</a> Publications ------------</p>
+<p><a href="https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf">Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform</a></p>
+<!--
+Skills
+--------------------
 
-<p>The repository is <a href="https://github.com/mszep/pandoc_resume">here</a> (pull requests welcome!), and it includes a Makefile, so the instructions to make your own resume are:</p>
-<pre><code>git clone https://github.com/mszep/pandoc_resume
-cd pandoc_resume
-vim resume.md   #insert your own resume info
-make</code></pre>
-<p>You will need both pandoc and ConTeXt installed on your system, which on Debian and derivatives can be achieved with</p>
-<pre><code>sudo apt-get install pandoc context</code></pre>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+Languages And Frameworks
+:   * Javascript (Node, jQuery, Angular, React, Redux
+    * Python (Django)
+    * C, C++
+    * Java (Android)
 
-  ga('create', 'UA-52741296-1', 'auto');
-  ga('send', 'pageview');
 
-</script>
+Databases
+:    * Mongo
+      * PostgreSQL
+      * MySQL
+-->
+<p><a href="./images/pegman.png"></a></p>
+<!--
+[![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
+
+[![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
+
+[![](./images/gumby.png) - Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
+
+[![](./images/lunar.png) - Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
+
+-->
 </body>
 </html>
