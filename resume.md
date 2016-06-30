@@ -57,21 +57,21 @@ At Aniden, I was involved in developing interactive projects for clients like HP
 Experience cont.
 ----------
 
-**Software Engineer - [Google](http://www.google.com/) - *2007-2012* **
+**Software Engineer - [Google] - *2007-2012* **
 
 While at Google, I have namely worked in geo-related (digital mapping) technologies, and have been involved in...
 
-- [Google Earth 3D Buildings](http://www.google.com/earth/explore/showcase/3dbuildings.html) - C++ pipeline for the automated creation of 3D buildings using LIDAR and aerial imagery. 
+- [Google Earth 3D Buildings] - C++ pipeline for the automated creation of 3D buildings using LIDAR and aerial imagery. 
 
-- [Google Builing Maker](http://www.google.com/earth/learn/3dbuildings.html) - C++ pipeline/server for serving tiled, hierarchical aerial imagery.
+- [Google Builing Maker] - C++ pipeline/server for serving tiled, hierarchical aerial imagery.
 
-- **Wapner** - Django-based internal tool for scoring 3D content.  [Patent](http://www.google.com/patents/US20150143301) issued for work on this project.
+- **Wapner** - Django-based internal tool for scoring 3D content.  [Patent] issued for work on this project.
 
-- [Google Street View](https://www.google.com/maps/streetview/) - Javascript/Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
+- [Google Street View] - Javascript/Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
 
-- [Speciality Pegmen](https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html) - 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview. Authored and Launched over 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.![](./images/pegman.png)
+- [Speciality Pegmen] - 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview. Authored and Launched over 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.![](./images/pegman.png)
 
-- [Google Doodles](www.google.com/doodles) - First to hold actual title "Doodle Engineer".  Authored and launched interactive doodles.  Implemented the initial version of the [Doodle Gallery](www.google.com/doodles) in Django/Python on Google App Engine.
+- [Google Doodles] - First to hold actual title "Doodle Engineer".  Authored and launched interactive doodles.  Implemented the initial version of the [Doodle Gallery] in Django/Python on Google App Engine.
 
 Particular Doodles I authored include the following links below
 
@@ -168,4 +168,25 @@ Databases
 [HP 7 Slate]:https://play.google.com/store/apps/details?id=com.aniden.android.pine
 [HP Slatebook X2]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook
 [HP Slate 21]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio
+[Google]:http://www.google.com
+[Google Earth 3D Buildings]:http://www.google.com/earth/explore/showcase/3dbuildings.html
+[Google Builing Maker]:http://www.google.com/earth/learn/3dbuildings.html
+[Patent]:http://www.google.com/patents/US20150143301 
+[Google Street View]:https://www.google.com/maps/streetview/
+[Speciality Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
+[Google Doodles]:https://www.google.com/doodles
+[Doodle Gallery]:https://www.google.com/doodles
 
+[](./images/pegman.png)
+
+
+<!--
+[![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
+
+[![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
+
+[![](./images/gumby.png) - Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
+
+[![](./images/lunar.png) - Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
+
+-->
