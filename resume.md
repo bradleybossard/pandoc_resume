@@ -116,7 +116,7 @@ Portfolio
 Side Projects
 -------------
 
-**CTO - [DentalEMR](https://dentalemr.com) - *2015* **
+**CTO - [DentalEMR] - *2015* **
 
 Cloud-based dental EMR (electronic medical records) solution.  Architected and built the initial framework using Django and Angular.  Interviewed and hired additional team members.  Built and refined wireframes.  Followed SCRUMM project management principles.
 
@@ -124,19 +124,18 @@ Cloud-based dental EMR (electronic medical records) solution.  Architected and b
 Education
 ---------
 
-**MSECE, Electrical and Computer Engineering** - [University of Iowa](http://www.uiowa.edu/) - *2001-2003* 
+**MSECE, Electrical and Computer Engineering** - [University of Iowa] - *2001-2003* 
 
-**BSEE, Electrical Engineering** - [University of Iowa](http://www.uiowa.edu/) - *1998-2001* 
+**BSEE, Electrical Engineering** - [University of Iowa] - *1998-2001* 
 
 Patents
 ------------------------
 
-[Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area](http://www.google.com/patents/US20150143301)
-
+[Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area] 
 Publications
 ------------
 
-[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform](https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf)
+[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]
 
 <!--
 Skills
@@ -176,6 +175,11 @@ Databases
 [Speciality Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
 [Google Doodles]:https://www.google.com/doodles
 [Doodle Gallery]:https://www.google.com/doodles
+[DentalEMR]:https://dentalemr.com
+[University of Iowa]:http://www.uiowa.edu/
+
+[Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area]:http://www.google.com/patents/US20150143301
+[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]:https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf
 
 [](./images/pegman.png)
 
