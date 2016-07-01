@@ -182,10 +182,9 @@ Databases
 [Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area]:http://www.google.com/patents/US20150143301
 [Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]:https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf
 
+<!--
 [](./images/pegman.png)
 
-
-<!--
 [![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
 
 [![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
