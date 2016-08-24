@@ -3,13 +3,13 @@ Bradley Bossard
 
 > <bradleybossard@gmail.com>
 
+> <span>[PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)</span>
+
 ----
 
 >  Senior developer and [Xoogler](http://google.about.com/od/wx/g/xooglers.htm) with over 15 years of experience.  I enjoy solving interesting problems and learning new technologies.
 
 ----
-
-[PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)
 
 Experience
 ----------
