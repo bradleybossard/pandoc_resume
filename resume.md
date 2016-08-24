@@ -9,6 +9,8 @@ Bradley Bossard
 
 ----
 
+[PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)
+
 Experience
 ----------
 
