@@ -1,12 +1,6 @@
 *.tuc
 *.log
-<<<<<<< HEAD
-=======
-*.pdf
-*.html
->>>>>>> master
 *.swo
 *.swp
-*.rtf
 style_chmduquesne*
 *.tex
