@@ -3,7 +3,7 @@ Bradley Bossard
 
 > <bradleybossard@gmail.com>
 
-> <div>[PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)</div>
+> [PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)
 
 ----
 
