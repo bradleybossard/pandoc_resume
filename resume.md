@@ -100,6 +100,8 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 Portfolio
 ---------
 
+[![](./images/linkedin.png){width=20 height=20} - LinkedIn](https://www.linkedin.com/in/bradleybossard)
+
 [![](./images/github.png){width=20 height=20} - Github](https://github.com/bradleybossard)
 
 [![](./images/codepen.png){width=20 height=20} - Codepen](https://codepen.io/bradleybossard)
