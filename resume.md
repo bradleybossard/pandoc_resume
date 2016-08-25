@@ -3,7 +3,7 @@ Bradley Bossard
 
 > <bradleybossard@gmail.com>
 
-> <div>[PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)</div>
+> [PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)
 
 ----
 
@@ -99,6 +99,8 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 
 Portfolio
 ---------
+
+[![](./images/linkedin.png){width=20 height=20} - LinkedIn](https://www.linkedin.com/in/bradleybossard)
 
 [![](./images/github.png){width=20 height=20} - Github](https://github.com/bradleybossard)
 

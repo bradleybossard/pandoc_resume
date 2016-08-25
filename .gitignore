@@ -2,5 +2,7 @@
 *.log
 *.swo
 *.swp
-style_chmduquesne*
+*.css
 *.tex
+index.html
+resume-of-*

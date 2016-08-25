@@ -9,5 +9,6 @@ convert stackoverflow-orig.png -resize 60x60 stackoverflow.png
 convert docker-orig.png -resize 60x60 docker.png 
 convert codewars-orig.png -resize 60x60 codewars.png 
 convert hackerrank-orig.png -resize 60x60 hackerrank.png
+convert linkedin-orig.png -resize 60x60 linkedin.png
 
 
