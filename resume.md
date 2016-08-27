@@ -99,7 +99,7 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 
 - [Speciality Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "speciality Pegman". Technologies involved Python / ImageMagick for image processing and C++ / Javascript additions to Google Maps code base for defining launch regions.
 
-- [Google Doodle Gallery]
+- [Google Doodle Gallery] - Built interactive gallery for viewing Google Doodles.
 
 - [Google Doodles] - First Google employee to hold title "Doodle Engineer".  Authored and launched Google Doodles using raw Javascript / HTML / CSS for optimal code.  Particular Google Doodles I authored include the following links below 
 
