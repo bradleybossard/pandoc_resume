@@ -3,7 +3,7 @@ Bradley Bossard
 
 > <bradleybossard@gmail.com>
 
-> ![](./images/pegman.png)
+> ![](./images/pegman.png){width=406 height=55}
 
 > [PDF] &nbsp; &nbsp; &nbsp; [MS Word]  <!-- REMOVEPDF -->
 
@@ -12,6 +12,35 @@ Bradley Bossard
 >  Software engineer and [former Googler] with 10+ years experience and an emphasis on frontend web development.
 
 ----
+
+Portfolio
+---------
+<!--- Need image px params for PDF output, some pandoc bug -->
+> [![](./images/linkedin.png){width=34 height=34}](https://www.linkedin.com/in/bradleybossard)
+[![](./images/github.png){width=34 height=34}](https://github.com/bradleybossard)
+[![](./images/codepen.png){width=34 height=34}](https://codepen.io/bradleybossard)
+[![](./images/stackoverflow.png){width=34 height=34}](http://stackoverflow.com/users/1754642/bradley-bossard)
+[![](./images/docker.png){width=34 height=34}](https://hub.docker.com/u/bradleybossard)
+[![](./images/codewars.png){width=34 height=34}](https://www.codewars.com/users/bradleybossard)
+
+<!--
+[![](./images/linkedin.png){width=20 height=20} - LinkedIn](https://www.linkedin.com/in/bradleybossard)
+
+[![](./images/github.png){width=20 height=20} - Github](https://github.com/bradleybossard)
+
+[![](./images/codepen.png){width=20 height=20} - Codepen](https://codepen.io/bradleybossard)
+
+[![](./images/stackoverflow.png){width=20 height=20} - stackoverflow](http://stackoverflow.com/users/1754642/bradley-bossard)
+
+[![](./images/docker.png){width=20 height=20} - Docker Hub](https://hub.docker.com/u/bradleybossard)
+
+[![](./images/codewars.png){width=20 height=20} - CodeWars](https://www.codewars.com/users/bradleybossard)
+-->
+
+<!--
+![](./images/hackerrank.png)[HackerRank](https://www.hackerrank.com/bradleybossard)
+-->
+
 
 Experience
 ----
@@ -102,35 +131,6 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 
 \newpage
 \pagebreak
-
-Portfolio
----------
-
-> [![](./images/linkedin.png){width=20 height=20}](https://www.linkedin.com/in/bradleybossard)
-[![](./images/github.png){width=20 height=20}](https://github.com/bradleybossard)
-[![](./images/codepen.png){width=20 height=20}](https://codepen.io/bradleybossard)
-[![](./images/stackoverflow.png){width=20 height=20}](http://stackoverflow.com/users/1754642/bradley-bossard)
-[![](./images/docker.png){width=20 height=20}](https://hub.docker.com/u/bradleybossard)
-[![](./images/codewars.png){width=20 height=20}](https://www.codewars.com/users/bradleybossard)
-
-<!--
-[![](./images/linkedin.png){width=20 height=20} - LinkedIn](https://www.linkedin.com/in/bradleybossard)
-
-[![](./images/github.png){width=20 height=20} - Github](https://github.com/bradleybossard)
-
-[![](./images/codepen.png){width=20 height=20} - Codepen](https://codepen.io/bradleybossard)
-
-[![](./images/stackoverflow.png){width=20 height=20} - stackoverflow](http://stackoverflow.com/users/1754642/bradley-bossard)
-
-[![](./images/docker.png){width=20 height=20} - Docker Hub](https://hub.docker.com/u/bradleybossard)
-
-[![](./images/codewars.png){width=20 height=20} - CodeWars](https://www.codewars.com/users/bradleybossard)
--->
-
-<!--
-![](./images/hackerrank.png)[HackerRank](https://www.hackerrank.com/bradleybossard)
--->
-
 
 Side Projects
 -------------
