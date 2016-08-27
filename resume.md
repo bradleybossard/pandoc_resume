@@ -68,9 +68,11 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 
 - [Google Street View] - Javascript / Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
 
-- [Speciality Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "speciality Pegman".
+- [Speciality Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "speciality Pegman". Technologies involved Python / ImageMagick for image processing and C++ / Javascript additions to Google Maps code base for defining launch regions.
 
-- [Google Doodles] - First to hold actual title "Doodle Engineer".  Authored and launched interactive doodles.  Implemented the initial version of the [Doodle Gallery] in Django/Python on Google App Engine.
+- [Google Doodle Gallery]
+
+- [Google Doodles] - First Google employee to hold title "Doodle Engineer".  Authored and launched Doodles using raw Javascript / HTML / CSS for optimal code. 
 
 Particular Doodles I authored include the following links below
 
@@ -87,7 +89,7 @@ Particular Doodles I authored include the following links below
 Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments.  Acquired by Google. 
 
 * Writing C++ code for real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.
-* Design and manufacture soldering custom cabling/PCBs, and power supply used by all onboard sensors.
+* Design and manufacture custom cabling / PCBs / power components.
 * Evaluation, research and purchasing of all hardware used by the company.
 * Point of contact for DARPA project integrators, including calls, travel to Washington D.C. and on-site integration.
 
@@ -97,6 +99,14 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 Portfolio
 ---------
 
+> [![](./images/linkedin.png){width=20 height=20}](https://www.linkedin.com/in/bradleybossard)
+[![](./images/github.png){width=20 height=20}](https://github.com/bradleybossard)
+[![](./images/codepen.png){width=20 height=20}](https://codepen.io/bradleybossard)
+[![](./images/stackoverflow.png){width=20 height=20}](http://stackoverflow.com/users/1754642/bradley-bossard)
+[![](./images/docker.png){width=20 height=20}](https://hub.docker.com/u/bradleybossard)
+[![](./images/codewars.png){width=20 height=20}](https://www.codewars.com/users/bradleybossard)
+
+<!--
 [![](./images/linkedin.png){width=20 height=20} - LinkedIn](https://www.linkedin.com/in/bradleybossard)
 
 [![](./images/github.png){width=20 height=20} - Github](https://github.com/bradleybossard)
@@ -108,6 +118,7 @@ Portfolio
 [![](./images/docker.png){width=20 height=20} - Docker Hub](https://hub.docker.com/u/bradleybossard)
 
 [![](./images/codewars.png){width=20 height=20} - CodeWars](https://www.codewars.com/users/bradleybossard)
+-->
 
 <!--
 ![](./images/hackerrank.png)[HackerRank](https://www.hackerrank.com/bradleybossard)
@@ -179,7 +190,7 @@ Databases
 [Google Street View]:https://www.google.com/maps/streetview/
 [Speciality Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
 [Google Doodles]:https://www.google.com/doodles
-[Doodle Gallery]:https://www.google.com/doodles
+[Google Doodle Gallery]:https://www.google.com/doodles
 [DentalEMR]:https://dentalemr.com
 [University of Iowa]:http://www.uiowa.edu/
 
