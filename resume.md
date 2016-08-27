@@ -76,6 +76,12 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 
 Particular Doodles I authored include the following links below
 
+> [![](./images/startrek.png)](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
+[![](./images/halloween.png)](http://www.google.com/doodles/halloween-2011)
+[![](./images/gumby.png)](http://www.google.com/doodles/art-clokeys-90th-birthday)
+[![](./images/lunar.png)(http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
+
+<!--
 [![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
 
 [![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
@@ -83,6 +89,7 @@ Particular Doodles I authored include the following links below
 [![](./images/gumby.png) - Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
 
 [![](./images/lunar.png) - Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
+-->
 
 **Systems Engineer - Urban Scan - *2005 - 2007* **
 
