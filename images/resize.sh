@@ -1,9 +1,18 @@
-doodle_scale='10'
+doodle_scale='20'
+doodle_width='100'
+doodle_height='60'
 profile_scale='40'
-convert gumby-2011-hp.jpg -resize $doodle_scale% gumby.png
-convert lunareclipse11-hp.png -resize $doodle_scale% lunar.png
-convert startrek2012-hp.jpg -resize $doodle_scale% startrek.png
-convert halloween-2011-hp.jpg -resize $doodle_scale% halloween.png
+
+#convert gumby-2011-hp.jpg -resize $doodle_scale% gumby.png
+#convert lunareclipse11-hp.png -resize $doodle_scale% lunar.png
+#convert startrek2012-hp.jpg -resize $doodle_scale% startrek.png
+#convert halloween-2011-hp.jpg -resize $doodle_scale% halloween.png
+
+convert gumby-2011-hp.jpg -resize ${doodle_width}x${doodle_height} -gravity Center -extent ${doodle_width}x${doodle_height} gumby.png
+convert lunareclipse11-hp.png -resize ${doodle_width}x${doodle_height} -gravity Center -extent ${doodle_width}x${doodle_height} lunar.png
+convert startrek2012-hp.jpg -resize ${doodle_width}x${doodle_height} -gravity Center -extent ${doodle_width}x${doodle_height} startrek.png
+convert halloween-2011-hp.jpg -resize ${doodle_width}x${doodle_height} -gravity Center -extent ${doodle_width}x${doodle_height} halloween.png
+
 
 convert github-orig.png -resize ${profile_scale}x${profile_scale} github.png
 convert codepen-orig.png -resize ${profile_scale}x${profile_scale} codepen.png 
