@@ -101,14 +101,15 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 
 - [Google Doodle Gallery]
 
-- [Google Doodles] - First Google employee to hold title "Doodle Engineer".  Authored and launched Doodles using raw Javascript / HTML / CSS for optimal code. 
-
-Particular Doodles I authored include the following links below
+- [Google Doodles] - First Google employee to hold title "Doodle Engineer".  Authored and launched Google Doodles using raw Javascript / HTML / CSS for optimal code.  Particular Google Doodles I authored include the following links below 
 
 > [![](./images/startrek.png)](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
+&nbsp;
 [![](./images/halloween.png)](http://www.google.com/doodles/halloween-2011)
+&nbsp;
 [![](./images/gumby.png)](http://www.google.com/doodles/art-clokeys-90th-birthday)
-[![](./images/lunar.png)(http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
+&nbsp;
+[![](./images/lunar.png)](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
 
 <!--
 [![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
@@ -135,10 +136,15 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 Side Projects
 -------------
 
-**CTO - [DentalEMR] - *2015* **
+**Tech Lead / CTO - [DentalEMR] - *2015* **
 
-Cloud-based dental EMR (electronic medical records) solution.  Architected and built the initial framework using Django and Angular.  Interviewed and hired additional team members.  Built and refined wireframes.  Followed SCRUMM project management principles.
+Cloud-based dental EMR (electronic medical records) webapp.  Built using Python Django REST framework / POSTGres / Angular / Gulp.  Hosted on AWS.
 
+* Architected design and evaluated technology based on requirements.
+* Refined wireframes.
+* Interviewed and hired additional team members.
+* Agile project management and sprint planning.
+* Led SCRUMM meetings.
 
 Education
 ---------
