@@ -12,7 +12,7 @@ Bradley Bossard
 ----
 
 Experience
-----------
+----
 
 **Senior Software Engineer - [VenueNext] - *2016 - Present* **
 
@@ -26,31 +26,27 @@ senior engineer on this remote team, my duties include
 * Driving platform development, including API specification, UI design
   of platform features, and cross-platform feature implementation.
 
-**Frontend Developer - [Aniden Interactive] - *2012-2016* **
+**Lead Frontend Developer - [Aniden Interactive] - *2012-2016* **
 
-At Aniden, I was involved in developing interactive projects for clients like HP, Yahoo and Exxon, using a diverse mix of technologies. A small sampling of projects would include the following:
+Aniden is an interactive agency, where I was the lead developer on several frontend web projects utilizing Javascript, and Javascript frameworks and libraries.
 
-* [Yahoo Doodle] - Created Python pipeline to optimize and sprite an image sequence and custom Javascript for the Yahoo homepage to handle loading and animating the sprite.
+* [Yahoo Doodle] - Image spriting / loading / anmiation.  Python was used for image pre-processing, pure Javascript for loading and animating the sprite. 
 
-* [Race For The Stars] - Virtual reality game built using Unity 3D for the client and MEAN JS stack on the backend scoreboard.  App allows users to race through an HP datacenter in a Temple Run-like game and compete for the best times/scores.
+* [Race For The Stars] - Virtual reality game and web-based scoreboard. Technologies used included Unity / Javascript / Angular / Mongo / Express / Node JS.
 
-* [Finish Drawing] - Web app game entered for [Wacom Inkation] contest, winning 3rd place.  Game pairs an adjective/noun combo and asks the user to finish the drawing in 10 seconds given a random line, then adds it to a gallery.  Built using MEAN JS and Wacom WILL API.
+* [Finish Drawing] - Web app for drawing and navigating drawing gallery. Developed for [Wacom Inkation] hackathon and placed 3rd.  Built using Javascript / Angular/ Mongo / Node JS and Wacom WILL library.
 
-* [Touch table] - Large interactive tabletop timeline for Baker Hughes Employee Education Center.  Multi-user experience allows users to touch the screen to animate a spline and explore events in the companies history.  Built using Chrome App framework and HTML canvas.
+* [BH Touch table] - Interactive tabletop timeline.  Built using Javascript / jQuery / HTML5 canvas as a Chrome App.
 
-* [HP Discover Mobility Experience] - Trade show piece that allows users to navigate forward/backwards through a series of animations.  Written as a JS Chrome App, deployed on touch wall and tablets.
+* [HP Discover Mobility Experience] - Trade show piece.  Built with Javascript / Angular as a Chrome App.
 
-* [Cliphoarder] - WinJS app and unreleashed Android app for copying assets from clipboard into local/SkyDrive/Dropbox stores.  Development used WinJS, Android SDK, and Dropbox/Skydrive APIs.
+* [Cliphoarder] - Internal product, cloud-based clipboard tool.  Technologies include Javascript / WinJS / Java Android / Dropbox and Skydrive APIs.
 
-* **Android Kiosk Apps** - Native Android apps for HP devices for retail applications.
-    * [HP 7 VoiceTab]
-    * [HP 7 Slate]
-    * [HP Slatebook X2]
-    * [HP Slate 21]
+* _Android Kiosk Apps_ - Over 20 native Android apps (Java) for HP/Dell devices for retail applications.
 
-* **MPM** - Project management app for visualizing project milestones over hundreds of project simutaneously in a corporate setting.  PHP/MySQL backend, jQuery and assorted frameworks on the frontend.
+* _MPM_ - Corporate project management webapp for visualizing project timelines.  PHP/MySQL backend, Javascript / jQuery / jQuery UI frontend.
 
-* **Digital Signage** - Multiple 120" touchwall kiosk projects, some using Flash, others implemented using Chrome Packaged apps using HTML5 canvas for rendering.
+* _Digital Signage_ - Multiple 120" touchwall kiosk projects. Technologies used included Flash / Javascript / Angular / HTML5 canvas.
 
 \newpage
 \pagebreak
@@ -61,7 +57,7 @@ Experience cont.
 
 **Software Engineer - [Google] - *2007-2012* **
 
-While at Google, I have namely worked in geo-related (digital mapping) technologies, and have been involved in...
+While at Google, I have namely worked in digital mapping technologies, and have been involved in...
 
 - [Google Earth 3D Buildings] - C++ pipeline for the automated creation of 3D buildings using LIDAR and aerial imagery. 
 
