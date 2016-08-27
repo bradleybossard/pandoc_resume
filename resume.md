@@ -3,11 +3,13 @@ Bradley Bossard
 
 > <bradleybossard@gmail.com>
 
-> [PDF](http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf)
+> ![](./images/pegman.png)
+
+> [PDF] &nbsp; &nbsp; &nbsp; [MS Word]  <!-- REMOVEPDF -->
 
 ----
 
->  Senior developer and [Xoogler](http://google.about.com/od/wx/g/xooglers.htm) with over 15 years of experience.  I enjoy solving interesting problems and learning new technologies.
+>  Software engineer and [former Googler] with 10+ years experience and an emphasis on frontend web development.
 
 ----
 
@@ -36,7 +38,7 @@ Aniden is an interactive agency, where I was the lead developer on several front
 
 * [Finish Drawing] - Web app for drawing and navigating drawing gallery. Developed for [Wacom Inkation] hackathon and placed 3rd.  Built using Javascript / Angular/ Mongo / Node JS and Wacom WILL library.
 
-* [BH Touch table] - Interactive tabletop timeline.  Built using Javascript / jQuery / HTML5 canvas as a Chrome App.
+* [History Of Baker Hughes] - Interactive tabletop timeline.  Built using Javascript / jQuery / HTML5 canvas as a Chrome App.
 
 * [HP Discover Mobility Experience] - Trade show piece.  Built with Javascript / Angular as a Chrome App.
 
@@ -44,30 +46,29 @@ Aniden is an interactive agency, where I was the lead developer on several front
 
 * _Android Kiosk Apps_ - Over 20 native Android apps (Java) for HP/Dell devices for retail applications.
 
-* _MPM_ - Corporate project management webapp for visualizing project timelines.  PHP/MySQL backend, Javascript / jQuery / jQuery UI frontend.
+* _MPM_ - Corporate project management webapp for visualizing project timelines.  PHP / MySQL backend, Javascript / jQuery / jQuery UI frontend.
 
 * _Digital Signage_ - Multiple 120" touchwall kiosk projects. Technologies used included Flash / Javascript / Angular / HTML5 canvas.
 
 \newpage
 \pagebreak
 
-
-Experience cont.
-----------
+Experience cont.  <!-- REMOVEHTML -->
+----------        <!-- REMOVEHTML -->
 
 **Software Engineer - [Google] - *2007-2012* **
 
 While at Google, I have namely worked in digital mapping technologies, and have been involved in...
 
-- [Google Earth 3D Buildings] - C++ pipeline for the automated creation of 3D buildings using LIDAR and aerial imagery. 
+- [Google Earth 3D Buildings] - Automated creation of 3D buildings using LIDAR and aerial imagery.  Written in C++.
 
-- [Google Builing Maker] - C++ pipeline/server for serving tiled, hierarchical aerial imagery.
+- [Google Builing Maker] - Image processing pipeline and server for serving aerial imagery.  Written in C++.
 
-- **Wapner** - Django-based internal tool for scoring 3D content.  [Patent] issued for work on this project.
+- _Wapner_ - Django-based internal tool for scoring 3D content.  [Patent] issued for work on this project.  Implemented with Django and Javascript.
 
-- [Google Street View] - Javascript/Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
+- [Google Street View] - Javascript / Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
 
-- [Speciality Pegmen] - 20% project to create a 3D modeling and sprite generation pipeline for creating "speciality Pegman" for Streetview. Authored and Launched over 20 special Pegman used to celebrate certain holidays or special Street View imagery collection launches.![](./images/pegman.png)
+- [Speciality Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "speciality Pegman".
 
 - [Google Doodles] - First to hold actual title "Doodle Engineer".  Authored and launched interactive doodles.  Implemented the initial version of the [Doodle Gallery] in Django/Python on Google App Engine.
 
@@ -83,7 +84,7 @@ Particular Doodles I authored include the following links below
 
 **Systems Engineer - Urban Scan - *2005 - 2007* **
 
-Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments. During my two years, I was responsible for the following...
+Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments.  Acquired by Google. 
 
 * Writing C++ code for real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.
 * Design and manufacture soldering custom cabling/PCBs, and power supply used by all onboard sensors.
@@ -155,12 +156,15 @@ Databases
       * MySQL
 -->
 
-[Xoogler]:http://google.about.com/od/wx/g/xooglers.htm
+[PDF]: http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf
+[MS Word]: http://bradleybossard.github.io/resume/resume-of-bradley-bossard.docx
+[former Googler]:http://google.about.com/od/wx/g/xooglers.htm
 [VenueNext]:http://www.venuenext.com/
 [Aniden Interactive]:http://www.aniden.com/
 [Yahoo Doodle]:http://aniden.com/project/yahoo_logo
 [Race For The Stars]:http://aniden.com/project/race_for_the_stars
 [Finish Drawing]:http://finishdrawing.com
+[History Of Baker Hughes]:http://aniden.com/project/bh_timeline
 [Wacom Inkation]:http://devpost.com/software/finishdrawing-com
 [HP Discover Mobility Experience]:http://aniden.com/project/mobility_touch_experience
 [Cliphoarder]:http://cliphoarder.com/
