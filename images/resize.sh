@@ -1,7 +1,7 @@
-convert gumby-2011-hp.jpg -resize 25% gumby.png
-convert lunareclipse11-hp.png -resize 25% lunar.png
-convert startrek2012-hp.jpg -resize 25% startrek.png
-convert halloween-2011-hp.jpg -resize 25% halloween.png
+convert gumby-2011-hp.jpg -resize 10% gumby.png
+convert lunareclipse11-hp.png -resize 10% lunar.png
+convert startrek2012-hp.jpg -resize 10% startrek.png
+convert halloween-2011-hp.jpg -resize 10% halloween.png
 
 convert github-orig.png -resize 60x60 github.png
 convert codepen-orig.png -resize 60x60 codepen.png 
