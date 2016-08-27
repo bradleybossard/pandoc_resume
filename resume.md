@@ -97,7 +97,7 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 
 - [Google Street View] - Javascript / Flash code for Google Street View and Google Maps.  Particular tasks included refactoring embed codebase, and rendering code for 3D overlays in driving directions.
 
-- [Speciality Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "speciality Pegman". Technologies involved Python / ImageMagick for image processing and C++ / Javascript additions to Google Maps code base for defining launch regions.
+- [Specialty Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "specialty Pegman". Technologies involved Python / ImageMagick for image processing and C++ / Javascript additions to Google Maps code base for defining launch regions.
 
 - [Google Doodle Gallery] - Built interactive gallery for viewing Google Doodles.
 
@@ -201,7 +201,7 @@ Databases
 [Google Builing Maker]:http://www.google.com/earth/learn/3dbuildings.html
 [Patent]:http://www.google.com/patents/US20150143301 
 [Google Street View]:https://www.google.com/maps/streetview/
-[Speciality Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
+[Specialty Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
 [Google Doodles]:https://www.google.com/doodles
 [Google Doodle Gallery]:https://www.google.com/doodles
 [DentalEMR]:https://dentalemr.com
