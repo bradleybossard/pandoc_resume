@@ -3,8 +3,6 @@ Bradley Bossard
 
 > <bradleybossard@gmail.com>
 
-> ![](./images/pegman.png){width=406 height=55}
-
 > [PDF] &nbsp; &nbsp; &nbsp; [MS Word]  <!-- REMOVEPDF -->
 
 ----
@@ -99,6 +97,8 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 
 - [Specialty Pegmen] - 20% Project. Created 3D modeling and sprite generation pipeline for authoring over 20 Street View "specialty Pegman". Technologies involved Python / ImageMagick for image processing and C++ / Javascript additions to Google Maps code base for defining launch regions.
 
+> ![](./images/pegman.png){width=406 height=55}
+
 - [Google Doodle Gallery] - Built interactive gallery for viewing Google Doodles.
 
 - [Google Doodles] - First Google employee to hold title "Doodle Engineer".  Authored and launched Google Doodles using raw Javascript / HTML / CSS for optimal code.  Particular Google Doodles I authored include the following links below 
@@ -129,9 +129,6 @@ Urban Scan was a small start-up focused on developing automated 3D modeling tech
 * Design and manufacture custom cabling / PCBs / power components.
 * Evaluation, research and purchasing of all hardware used by the company.
 * Point of contact for DARPA project integrators, including calls, travel to Washington D.C. and on-site integration.
-
-\newpage
-\pagebreak
 
 Side Projects
 -------------
@@ -180,8 +177,8 @@ Databases
       * MySQL
 -->
 
-[PDF]: http://bradleybossard.github.io/resume/resume-of-bradley-bossard.pdf
-[MS Word]: http://bradleybossard.github.io/resume/resume-of-bradley-bossard.docx
+[PDF]: resume-of-bradley-bossard.pdf
+[MS Word]: resume-of-bradley-bossard.docx
 [former Googler]:http://google.about.com/od/wx/g/xooglers.htm
 [VenueNext]:http://www.venuenext.com/
 [Aniden Interactive]:http://www.aniden.com/
