@@ -17,7 +17,7 @@ Portfolio
 > [![](./images/linkedin.png){width=34 height=34}](https://www.linkedin.com/in/bradleybossard)
 [![](./images/github.png){width=34 height=34}](https://github.com/bradleybossard)
 [![](./images/codepen.png){width=34 height=34}](https://codepen.io/bradleybossard)
-[![](./images/stackoverflow.png){width=34 height=34}](http://stackoverflow.com/users/1754642/bradley-bossard)
+[![](./images/stackoverflow.png){width=34 height=34}](http://stackoverflow.com/users/story/1754642)
 [![](./images/docker.png){width=34 height=34}](https://hub.docker.com/u/bradleybossard)
 [![](./images/codewars.png){width=34 height=34}](https://www.codewars.com/users/bradleybossard)
 
