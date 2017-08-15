@@ -21,5 +21,5 @@ convert docker-orig.png -crop 200x175+30-20 -gravity Center -extent 200x200 -res
 convert codewars-orig.png -crop 180x180-0-0 -resize ${profile_scale}x${profile_scale} codewars.png 
 convert hackerrank-orig.png -resize ${profile_scale}x${profile_scale} hackerrank.png
 convert linkedin-orig.png -resize ${profile_scale}x${profile_scale} linkedin.png
-
+convert csacademy-orig.png -resize ${profile_scale}x${profile_scale} csacademy.png
 
