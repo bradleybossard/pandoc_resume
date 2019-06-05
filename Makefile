@@ -12,7 +12,7 @@ resume.pdf: resume.md
 	--from markdown --to context \
 	-V papersize=A4 \
 	-o $(path)$(resume-basename).tex resume_pdf.md; \
-	context $(path)$(resume-basename).tex;
+	context $(path)$(resume-basename).tex --result=$(path)$(resume-basename).pdf
 	rm resume_pdf.md;
 
 html: resume.html
@@ -34,6 +34,10 @@ resume.rtf: resume.md
 	pandoc -s -S resume.md -o $(path)$(resume-basename).rtf
 
 clean:
-	rm $(resume-basename).tex
-	rm $(resume-basename).tuc
-	rm $(resume-basename).log
+	rm index.html
+	rm $(path)$(resume-basename).tex
+	rm $(path)$(resume-basename).tuc
+	rm $(path)$(resume-basename).log
+	rm $(path)$(resume-basename).pdf
+	rm $(path)$(resume-basename).docx
+	rm $(path)$(resume-basename).rtf
