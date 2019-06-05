@@ -6,12 +6,9 @@ The Markdown Resume
 
 Instructions:
 
-    git clone https://github.com/bradleybossard/resume
-    cd resume
-    vim resume.md   #insert your own resume info
-    make
-
-Requirements:
-
- * ConTeXt
- * pandoc
+```
+sudo apt-get install --yes make pandoc context
+git clone https://github.com/bradleybossard/resume
+cd resume
+vim resume.md
+```

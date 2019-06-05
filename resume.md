@@ -44,6 +44,13 @@ Portfolio
 Experience
 ----
 
+**Senior Software Engineer - [moovel] - *2017 - Present* **
+
+moovel is a subsidiary of Daimler AG (Mercedes Benz) and part of Daimler's mobility strategy.  moovel develops
+white label mobile ticketing solutions for transit agencies.
+
+* Microservice development and architecture
+
 **Senior Software Engineer - [VenueNext] - *2016 - Present* **
 
 VenueNext is a venture-funded startup building a platform for
