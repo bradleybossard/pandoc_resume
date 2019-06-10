@@ -7,7 +7,7 @@ The Markdown Resume
 Instructions:
 
 ```
-sudo apt-get install --yes make pandoc context
+sudo apt install --yes make pandoc context
 git clone https://github.com/bradleybossard/resume
 cd resume
 vim resume.md
