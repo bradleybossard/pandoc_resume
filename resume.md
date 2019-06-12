@@ -7,7 +7,7 @@ Bradley Bossard
 
 ----
 
->  Software engineer and [former Googler] with 10+ years experience and an emphasis on frontend web development.
+>  Fullstack software engineer and [former Googler] with 10+ years of experience.
 
 ----
 
@@ -50,6 +50,8 @@ moovel is a subsidiary of Daimler AG (Mercedes Benz) and part of Daimler's mobil
 white label mobile ticketing solutions for transit agencies.
 
 * Microservice development and architecture
+
+* Docker, Kubernetes and AWS
 
 **Senior Software Engineer - [VenueNext] - *2016 - Present* **
 
@@ -118,16 +120,6 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 [![](./images/gumby.png)](http://www.google.com/doodles/art-clokeys-90th-birthday)
 &nbsp;
 [![](./images/lunar.png)](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
-
-<!--
-[![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
-
-[![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
-
-[![](./images/gumby.png) - Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
-
-[![](./images/lunar.png) - Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
--->
 
 **Systems Engineer - Urban Scan - *2005 - 2007* **
 
