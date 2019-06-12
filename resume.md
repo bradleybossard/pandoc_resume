@@ -11,8 +11,7 @@ Bradley Bossard
 
 ----
 
-Portfolio
----------
+### Portfolio
 <!--- Need image px params for PDF output, some pandoc bug -->
 > [![](./images/linkedin.png){width=34 height=34}](https://www.linkedin.com/in/bradleybossard)
 [![](./images/github.png){width=34 height=34}](https://github.com/bradleybossard)
@@ -41,8 +40,7 @@ Portfolio
 -->
 
 
-Experience
-----
+### Experience
 
 **Senior Software Engineer - [moovel] - *2017 - Present* **
 
@@ -162,22 +160,6 @@ Publications
 
 [Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]
 
-<!--
-Skills
---------------------
-
-Languages And Frameworks
-:   * Javascript (Node, jQuery, Angular, React, Redux
-    * Python (Django)
-    * C, C++
-    * Java (Android)
-
-
-Databases
-:    * Mongo
-      * PostgreSQL
-      * MySQL
--->
 
 [Aniden Interactive]:http://www.aniden.com/
 [Cliphoarder]:http://cliphoarder.com/
