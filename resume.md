@@ -53,6 +53,8 @@ white label mobile ticketing solutions for transit agencies.
 
 * Docker, Kubernetes and AWS
 
+* NodeJS and Go
+
 **Senior Software Engineer - [VenueNext] - *2016 - Present* **
 
 VenueNext is a venture-funded startup building a platform for
@@ -177,35 +179,36 @@ Databases
       * MySQL
 -->
 
-[PDF]: resume-of-bradley-bossard.pdf
-[MS Word]: resume-of-bradley-bossard.docx
-[former Googler]:http://google.about.com/od/wx/g/xooglers.htm
-[VenueNext]:http://www.venuenext.com/
 [Aniden Interactive]:http://www.aniden.com/
-[Yahoo Doodle]:http://aniden.com/project/yahoo_logo
-[Race For The Stars]:http://aniden.com/project/race_for_the_stars
-[Finish Drawing]:http://finishdrawing.com
-[History Of Baker Hughes]:http://aniden.com/project/bh_timeline
-[Wacom Inkation]:http://devpost.com/software/finishdrawing-com
-[HP Discover Mobility Experience]:http://aniden.com/project/mobility_touch_experience
 [Cliphoarder]:http://cliphoarder.com/
+[DentalEMR]:https://dentalemr.com
+[Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area]:http://www.google.com/patents/US20150143301
+[Finish Drawing]:http://finishdrawing.com
+[former Googler]:http://google.about.com/od/wx/g/xooglers.htm
+[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]:https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf
+[Google]:http://www.google.com
+[Google Earth 3D Buildings]:http://www.google.com/earth/explore/showcase/3dbuildings.html
+[Google Builing Maker]:http://www.google.com/earth/learn/3dbuildings.html
+[Google Street View]:https://www.google.com/maps/streetview/
+[Google Doodles]:https://www.google.com/doodles
+[Google Doodle Gallery]:https://www.google.com/doodles
+[History Of Baker Hughes]:http://aniden.com/project/bh_timeline
+[HP Discover Mobility Experience]:http://aniden.com/project/mobility_touch_experience
 [HP 7 VoiceTab]:https://play.google.com/store/apps/details?id=com.aniden.hp7voicetab.app
 [HP 7 Slate]:https://play.google.com/store/apps/details?id=com.aniden.android.pine
 [HP Slatebook X2]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.slatebook
 [HP Slate 21]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio
-[Google]:http://www.google.com
-[Google Earth 3D Buildings]:http://www.google.com/earth/explore/showcase/3dbuildings.html
-[Google Builing Maker]:http://www.google.com/earth/learn/3dbuildings.html
+[moovel]:https://www.moovel.com/en
+[MS Word]: resume-of-bradley-bossard.docx
 [Patent]:http://www.google.com/patents/US20150143301 
-[Google Street View]:https://www.google.com/maps/streetview/
+[PDF]: resume-of-bradley-bossard.pdf
+[Race For The Stars]:http://aniden.com/project/race_for_the_stars
 [Specialty Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
-[Google Doodles]:https://www.google.com/doodles
-[Google Doodle Gallery]:https://www.google.com/doodles
-[DentalEMR]:https://dentalemr.com
 [University of Iowa]:http://www.uiowa.edu/
+[VenueNext]:http://www.venuenext.com/
+[Wacom Inkation]:http://devpost.com/software/finishdrawing-com
+[Yahoo Doodle]:http://aniden.com/project/yahoo_logo
 
-[Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area]:http://www.google.com/patents/US20150143301
-[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]:https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf
 
 <!--
 [](./images/pegman.png)
