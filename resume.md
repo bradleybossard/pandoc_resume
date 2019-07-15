@@ -154,7 +154,6 @@ Publications
 [HP Slate 21]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio
 [moovel]:https://www.moovel.com/en
 [MS Word]: resume-of-bradley-bossard.docx
-[Google]:http://www.google.com
 [Patent]:http://www.google.com/patents/US20150143301 
 [PDF]: resume-of-bradley-bossard.pdf
 [Race For The Stars]:http://aniden.com/project/race_for_the_stars
@@ -163,20 +162,6 @@ Publications
 [VenueNext]:http://www.venuenext.com/
 [Wacom Inkation]:http://devpost.com/software/finishdrawing-com
 [Yahoo Doodle]:http://aniden.com/project/yahoo_logo
-
-
-<!--
-[](./images/pegman.png)
-
-[![](./images/startrek.png) - 46th Anniversary of Star Trek's 1st Broadcast](http://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast)
-
-[![](./images/halloween.png) - Halloween 2011](http://www.google.com/doodles/halloween-2011)
-
-[![](./images/gumby.png) - Art Clokey's 90th Birthday](http://www.google.com/doodles/art-clokeys-90th-birthday)
-
-[![](./images/lunar.png) - Total Lunar Ellipse](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
-
--->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
