@@ -38,17 +38,14 @@ white label mobile ticketing solutions for transit agencies.
 
 * NodeJS and Go
 
-**Senior Software Engineer - [VenueNext] - *2016 - Present* **
+**Senior Software Engineer - [VenueNext] - *2016* **
 
 VenueNext is a venture-funded startup building a platform for
 mobile and integrating all the services of a venue (ticketing,
 food & beverage ordering, loyalty, etc) in a single user experience.  As a
 senior engineer on this remote team, my duties include
 
-* Mobile development on both iOS and Android.
-
-* Driving platform development, including API specification, UI design
-  of platform features, and cross-platform feature implementation.
+* Mobile development on both iOS and Android, backend API design.
 
 **Lead Frontend Developer - [Aniden Interactive] - *2012-2016* **
 
@@ -62,16 +59,6 @@ Aniden is an interactive agency, where I was the lead developer on several front
 
 * [History Of Baker Hughes] - Interactive tabletop timeline.  Built using Javascript / jQuery / HTML5 canvas as a Chrome App.
 
-* [HP Discover Mobility Experience] - Trade show piece.  Built with Javascript / Angular as a Chrome App.
-
-* [Cliphoarder] - Internal product, cloud-based clipboard tool.  Technologies include Javascript / WinJS / Java Android / Dropbox and Skydrive APIs.
-
-* _Android Kiosk Apps_ - Over 20 native Android apps (Java) for HP/Dell devices for retail applications.
-
-* _MPM_ - Corporate project management webapp for visualizing project timelines.  PHP / MySQL backend, Javascript / jQuery / jQuery UI frontend.
-
-* _Digital Signage_ - Multiple 120" touchwall kiosk projects. Technologies used included Flash / Javascript / Angular / HTML5 canvas.
-
 \newpage
 \pagebreak
 
@@ -82,7 +69,7 @@ Experience cont.  <!-- REMOVEHTML -->
 
 While at Google, I have namely worked in digital mapping technologies, and have been involved in...
 
-- [Google Earth 3D Buildings] - Automated creation of 3D buildings using LIDAR and aerial imagery.  Written in C++.
+- Google Earth 3D Buildings - Automated creation of 3D buildings using LIDAR and aerial imagery.  Written in C++.
 
 - [Google Builing Maker] - Image processing pipeline and server for serving aerial imagery.  Written in C++.
 
@@ -167,6 +154,7 @@ Publications
 [HP Slate 21]:https://play.google.com/store/apps/details?id=com.aniden.android.hp.screensaver.aio
 [moovel]:https://www.moovel.com/en
 [MS Word]: resume-of-bradley-bossard.docx
+[Google]:http://www.google.com
 [Patent]:http://www.google.com/patents/US20150143301 
 [PDF]: resume-of-bradley-bossard.pdf
 [Race For The Stars]:http://aniden.com/project/race_for_the_stars
