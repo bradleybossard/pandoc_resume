@@ -24,8 +24,8 @@ Bradley Bossard
 [![](./images/hackerrank.png){width=34 height=34}](https://hackerrank.com/bradleybossard)
 -->
 
-### Experience
-=======
+Experience
+----------
 
 **Senior Software Engineer - [moovel] - *2017 - Present* **
 
