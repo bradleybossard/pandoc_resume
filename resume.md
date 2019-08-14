@@ -1,17 +1,14 @@
-Bradley Bossard
-============
+# Bradley Bossard
+
+>  Polyglot software engineer with over 15 years of experience
 
 > <bradleybossard@gmail.com>
 
 > [PDF] &nbsp; &nbsp; &nbsp; [MS Word]  <!-- REMOVEPDF -->
 
-----
 
->  Fullstack software engineer and [former Googler] with 10+ years of experience.
 
-----
-
-### Portfolio
+<!-- ## Portfolio -->
 <!--- Need image px params for PDF output, some pandoc bug -->
 > [![](./images/linkedin.png){width=34 height=34}](https://www.linkedin.com/in/bradleybossard)
 [![](./images/github.png){width=34 height=34}](https://github.com/bradleybossard)
@@ -29,27 +26,22 @@ Experience
 
 **Senior Software Engineer - [moovel] - *2017 - Present* **
 
-moovel is a subsidiary of Daimler AG (Mercedes Benz) and part of Daimler's mobility strategy.  moovel develops
-white label mobile ticketing solutions for transit agencies.
+moovel develops whitelabel mobile ticketing solutions for transit agencies.
 
-* Microservice development and architecture
+* Microservice development with Docker, Go and NodeJS
 
 * Docker, Kubernetes and AWS
 
-* NodeJS and Go
-
 **Senior Software Engineer - [VenueNext] - *2016* **
 
-VenueNext is a venture-funded startup building a platform for
-mobile and integrating all the services of a venue (ticketing,
-food & beverage ordering, loyalty, etc) in a single user experience.  As a
-senior engineer on this remote team, my duties include
+VenueNext develops whitelabel mobile platform integrating all the services of a venue (ticketing,
+food & beverage ordering, loyalty, etc) in a single user experience.
 
-* Mobile development on both iOS and Android, backend API design.
+* Mobile development on both iOS and Android, backend API design and implementation.
 
-**Lead Frontend Developer - [Aniden Interactive] - *2012-2016* **
+**Lead Fullstack Developer - [Aniden Interactive] - *2012-2016* **
 
-Aniden is an interactive agency, where I was the lead developer on several frontend web projects utilizing Javascript, and Javascript frameworks and libraries.
+Aniden is a digital interactive agency with several large 
 
 * [Yahoo Doodle] - Image spriting / loading / anmiation.  Python was used for image pre-processing, pure Javascript for loading and animating the sprite. 
 
@@ -58,12 +50,6 @@ Aniden is an interactive agency, where I was the lead developer on several front
 * [Finish Drawing] - Web app for drawing and navigating drawing gallery. Developed for [Wacom Inkation] hackathon and placed 3rd.  Built using Javascript / Angular/ Mongo / Node JS and Wacom WILL library.
 
 * [History Of Baker Hughes] - Interactive tabletop timeline.  Built using Javascript / jQuery / HTML5 canvas as a Chrome App.
-
-\newpage
-\pagebreak
-
-Experience cont.  <!-- REMOVEHTML -->
-----------        <!-- REMOVEHTML -->
 
 **Software Engineer - [Google] - *2007-2012* **
 
@@ -93,27 +79,32 @@ While at Google, I have namely worked in digital mapping technologies, and have 
 &nbsp;
 [![](./images/lunar.png)](http://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh)
 
+\newpage
+\pagebreak
+
+Experience cont.  <!-- REMOVEHTML -->
+----------        <!-- REMOVEHTML -->
+
+
 **Systems Engineer - Urban Scan - *2005 - 2007* **
 
-Urban Scan was a small start-up focused on developing automated 3D modeling techniques for urban environments.  Acquired by Google. 
+Urban Scan was a start-up focused on automated 3D model generation for urban environments.  Acquired by Google and scaled for Google Earth
 
-* Writing C++ code for real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.
-* Design and manufacture custom cabling / PCBs / power components.
-* Evaluation, research and purchasing of all hardware used by the company.
-* Point of contact for DARPA project integrators, including calls, travel to Washington D.C. and on-site integration.
+* Wrote C++ real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.
+* Design and manufactured custom data collection hardware
+* Rresearch and purchasing of all hardware used by the company.
+* Point of contact for DARPA project integrators
 
-Side Projects
+Consulting
 -------------
 
-**Tech Lead / CTO - [DentalEMR] - *2015* **
+**CTO - [DentalEMR] - *2015* **
 
-Cloud-based dental EMR (electronic medical records) webapp.  Built using Python Django REST framework / POSTGres / Angular / Gulp.  Hosted on AWS.
+Cloud-based electronic medical records webapp
 
-* Architected design and evaluated technology based on requirements.
-* Refined wireframes.
+* Architected and developed Django/Angular application hosted on AWS
 * Interviewed and hired additional team members.
-* Agile project management and sprint planning.
-* Led SCRUMM meetings.
+* Agile project management and sprint planning, acting SCRUMM master
 
 Education
 ---------
@@ -122,16 +113,11 @@ Education
 
 **BSEE, Electrical Engineering** - [University of Iowa] - *1998-2001* 
 
-Patents
+Patents and Publications
 ------------------------
-
 [Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area] 
 
-Publications
-------------
-
 [Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]
-
 
 [Aniden Interactive]:http://www.aniden.com/
 [Cliphoarder]:http://cliphoarder.com/
