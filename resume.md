@@ -24,11 +24,13 @@ Experience
 
 moovel develops whitelabel mobile ticketing solutions for public transit agencies.
 
-* Micro services development with fullstack Javascript, Go, Python, Docker, Kubernetes and AWS
+* Micro services development with Node, Go, Python, Docker, Kubernetes and AWS
+
+* API design and implementaton with REST and GraphQL
 
 * Database experience with MySQL and PostgreSQL
 
-* Sprint-based development and CI/CD promotion methodology
+* Agile methodolgoy with JIRA, sprints and CI/CD code promotion process
 
 **Lead Fullstack Developer - [Aniden Interactive] - *2012 - 2016* **
 
