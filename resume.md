@@ -76,7 +76,6 @@ Education
 
 **BSEE, Bachelors of Electrical Engineering** - [University of Iowa] - *1998-2001* 
 
-\newpage
 \pagebreak
 
 <!--
