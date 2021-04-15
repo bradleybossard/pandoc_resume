@@ -15,7 +15,6 @@
 [![](./images/hackerrank.png){width=20 height=20}](https://hackerrank.com/bradleybossard)
 -->
 
->[PDF] <!-- REMOVEPDF -->
 
 ## Experience
 **Senior Fullstack Engineer** @ [UrbanFootprint] $~~~~~~~~~~$ _1/2020--present_
