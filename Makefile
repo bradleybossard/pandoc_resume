@@ -1,4 +1,5 @@
-path = docs/
+path = ./
+docs-path = docs/
 resume-basename = resume-of-bradley-bossard
 
 all: html pdf docx rtf
@@ -16,7 +17,8 @@ resume.pdf: resume.md
   -V 'mainfont:Font-Regular.otf' \
 	-V 'mainfontoptions:BoldFont=Font-Bold.otf, ItalicFont=Font-Italic.otf, BoldItalicFont=Font-BoldItalic.otf' \
 	-o $(path)$(resume-basename).tex resume_pdf.md; \
-	context $(path)$(resume-basename).tex --result=$(path)$(resume-basename).pdf
+	context $(path)$(resume-basename).tex --result=$(path)$(resume-basename).pdf;
+	cp $(path)$(resume-basename).pdf $(docs-path)$(resume-basename).pdf;
 	rm resume_pdf.md;
 
 html: resume.html
