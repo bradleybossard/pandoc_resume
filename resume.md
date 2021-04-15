@@ -18,73 +18,57 @@
 >[PDF] <!-- REMOVEPDF -->
 
 ## Experience
-**Senior Fullstack Engineer** @ [UrbanFootprint] $~~~~~~~~~~$ _1/2020--present_
+**Senior Fullstack Engineer** @ [UrbanFootprint] $~~~~~~~~~~~~~~~~~~~~~~~$ _1/2020--present_
 
 Urban intelligence SAAS platform for analyzing urban development scenarios.
 
-* Data rich [react]/[redux] frontend with [typescript].  Tested via mocha/chai, [applitools] and [percy]
+* Data rich [react]/[redux] frontend with [typescript].  Tested via [mocha], [chai], [applitools] and [percy]
+* Backend development with [python], [flask], [sqlalchemy], [postgres], and [pytest].
+* Geospatial processing ala [fiona], [shapely], [proj], [svgwrite]
+* Agile methodolgoy with [jira], sprint planning, staging and retros.  Full remote position and team.
 
-* Backend development with Python, Flask, sqlalchemy, Postgres, and pytest.
-
-* Geospatial processing ala fiona, shapely, proj, svgwrite
-
-* Agile methodolgoy with JIRA, sprint planning, staging and retros.  Full remote position and team.
-
-**Senior Software Engineer** @ [moovel] $~~~~~~~~~~$ _1/2017--1/2020_
+**Senior Software Engineer** @ [moovel] $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _1/2017--1/2020_
 
 Mobile ticketing solutions for public transit agencies.
 
-* Micro services development with Node, Go, Python, Docker, Kubernetes and AWS
+* Micro services development with [node], [go], [python], [docker], [kubernetes] and [aws]
+* API design and implementaton with [REST] and [graphQL]
+* Database experience with [mysql] and [postgres]
+* Agile methodolgoy with [jira], sprints and CI/CD code promotion process
 
-* API design and implementaton with REST and GraphQL
+**Lead Fullstack Developer** @ Aniden (defunct) $~~~~~~~~~~~~~~~~~~~~~~~~~$ _6/2012--12/2016_
 
-* Database experience with MySQL and PostgreSQL
-
-* Agile methodolgoy with JIRA, sprints and CI/CD code promotion process
-
-**Lead Fullstack Developer** @ Aniden (defunct) $~~~~~~~~~~$ _2012--2016_
-
-Digital interactive agency serving large clients including HP, Dell, Yahoo and Logitech.
-
-* Remote team member with proven ability to communicate well via Slack and video
-
-* Large variety of projects with technologies ranging from Flash, PHP, Javascript, jQuery, Angular & React
+Digital interactive agency serving large clients including [HP], [Dell], [Yahoo] and [Logitech].
 
 * Fast paced environment required ramping up on new technologies quickly
+* Remote team member with proven ability to communicate as such
+* Large variety of projects with technologies ranging from [flash], [php], [javascript], [jquery], & [angularjs]
 
-**Senior Software Engineer** @ [Google] $~~~~~~~~~~$ _2007--2012_
+**Senior Software Engineer** @ [Google] $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _6/2007--2/2012_
 
 Internet search company.
 
-- Google Earth 3D Buildings - C++ automated generation of 3D buildings from raw sensor data
+* [Google Earth] - Automated generation of 3D buildings from raw sensor data using [c++]
+* [Google Building Maker] - Oblique image tiling and serving pipeline using [c++]
+* _Wapner_ - Internal [patented] [django] webapp for scoring 3D content.
+* [Google Street View] - Frontend [flash] and [javascript] clients for viewing panoramic imagery
+* [Doodle Gallery] - [django] webapp for viewing doodles
+* Google Doodles - Interactive doodles on homepage using raw [javascript] Samples: [1] [2] [3] [4] [5] 
 
-- _Building Maker_ - C++ image processing and serving pipeline aerial imagery
-
-- _Wapner_ - [Patented] internal Django webapp for scoring 3D content.
-
-- [Street View] - Frontend Javascript client for Google Street View
-
-- [Doodle Gallery] - Django webapp for viewing Google Doodles
-
-- [Doodles] - Authored interactive Doodles on Google homepage using raw Javascript
-
-**Systems Engineer** @ UrbanScan (acquired by Google) $~~~~~~~~~~$ _2005--2007_
+**Systems Engineer** @ UrbanScan (acquired by [Google]) $~~~~~~~~~~~~~~~~~$ _5/2005--6/2007_
 
 Automated 3D model generation for urban environments.
 
-* Wrote C++ real-time acquisition sensor platform composed of cameras, GPS, and laser scanners.
+* Real-time acquisition sensor platform composed of cameras, GPS, and laser scanners using [c++]
 * Design and manufacture of custom data collection hardware.
 * Research and purchasing of all hardware used by the company.
 * Point of contact for DARPA project integrators.
 
 Education
 ---------
+**Masters of Electrical and Computer Engineering** @ [U of Iowa] $~~~~$ [thesis] $~~~~~~~~~~$ _2001--2003_
 
-**MSECE, Masters of Electrical and Computer Engineering** - [University of Iowa] - *2001-2003*
-
-**BSEE, Bachelors of Electrical Engineering** - [University of Iowa] - *1998-2001*
-
-\pagebreak
+**BSEE, Bachelors of Electrical Engineering** @ [U of Iowa]  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _1998--2001_
 
 <!--
 Consulting
@@ -105,32 +89,71 @@ Patents and Publications
 [Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]
 -->
 
+[1]: https://www.google.com/doodles/total-lunar-eclipse-live-imagery-provided-by-slooh
+[2]: https://www.google.com/doodles/art-clokeys-90th-birthday
+[3]: https://www.google.com/doodles/lucille-balls-100th-birthday
+[4]: https://www.google.com/doodles/halloween-2011
+[5]: https://www.google.com/doodles/46th-anniversary-of-star-treks-1st-broadcast
+
+[angularjs]: https://angularjs.org/
 [applitools]: https://applitools.com/
+[aws]: https://aws.amazon.com/
 [Aniden Interactive]:http://www.aniden.com/
+[c++]: https://isocpp.org/
+[chai]: https://www.chaijs.com/
+[Dell]: https://www.dell.com/
 [DentalEMR]:https://dentalemr.com
+[django]:https://www.djangoproject.com/
+[docker]:https://www.docker.com/
 [Evaluating Three-Dimensional Geographical Environments Using A Divided Bounding Area]:http://www.google.com/patents/US20150143301
 [Finish Drawing]:http://finishdrawing.com
-[Generation of Real-Time Synthetic Environment Using a Mobile Sensor Platform]:https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf
+[flash]: https://get.adobe.com/flashplayer/about/
+[flask]: https://palletsprojects.com/p/flask/
+[go]: https://golang.org/
 [Google]:https://www.google.com
-[Street View]:https://www.google.com/maps/streetview/
+[Google Earth]: https://www.google.com/earth/
+[Google Building Maker]: https://googleblog.blogspot.com/2009/10/introducing-google-building-maker.html
+[Google Street View]:https://www.google.com/maps/streetview/
+[graphQL]: https://graphql.org/
+[HP]: https://www.hp.com/
 [Doodles]:https://www.google.com/doodles
 [Doodle Gallery]:https://www.google.com/doodles
+[fiona]: https://pypi.org/project/Fiona/
 [History Of Baker Hughes]:http://aniden.com/project/bh_timeline
 [HP Discover Mobility Experience]:http://aniden.com/project/mobility_touch_experience
+[javascript]: https://www.javascript.com/
+[jira]: https://www.atlassian.com/software/jira
+[jquery]: https://jquery.com/
+[kubernetes]: https://kubernetes.io/
+[Logitech]: https://www.logitech.com/
 [moovel]:https://www.moovel.com/en
+[mocha]: https://mochajs.org/
+[node]: https://nodejs.org/en/
 [MS Word]: resume-of-bradley-bossard.docx
-[Patented]:http://www.google.com/patents/US20150143301
+[mysql]: https://www.mysql.com/
+[patented]:http://www.google.com/patents/US20150143301
 [PDF]: resume-of-bradley-bossard.pdf
 [percy]: https://percy.io/
+[php]: https://www.php.net/
+[postgres]: https://www.postgresql.org/
+[proj]: https://proj.org/
+[pytest]: https://docs.pytest.org/
+[python]: https://www.python.org/
 [Race For The Stars]:http://aniden.com/project/race_for_the_stars
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
+[REST]: https://restfulapi.net/
+[shapely]: https://pypi.org/project/Shapely/ 
+[sqlalchemy]: https://www.sqlalchemy.org/
 [Specialty Pegmen]:https://www.google.co.in/intl/en/help/maps/streetview/learn/pegman.html
+[svgwrite]: https://pypi.org/project/svgwrite/
+[thesis]:https://www.nads-sc.uiowa.edu/dscna/2001/Papers/Papelis%20_%20Generation%20of%20Real-Time%20Synthetic%20Environment....pdf
 [typescript]: https://www.typescriptlang.org/
-[University of Iowa]:http://www.uiowa.edu/
+[U of Iowa]:http://www.uiowa.edu/
 [UrbanFootprint]:https://www.urbanfootprint.com
 [Wacom Inkation]:http://devpost.com/software/finishdrawing-com
 [Yahoo Doodle]:http://aniden.com/project/yahoo_logo
+[Yahoo]: https://www.yahoo.com/
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
